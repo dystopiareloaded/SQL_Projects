@@ -1,0 +1,1401 @@
+ticket_id,train_id,travel_date,passenger_name,class,price,train_name,source,destination,days_of_operation,total_seats,booked_seats
+1002,1004,2023-01-04,Sai Das,AC 2 Tier,288,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,15
+1009,1004,2023-01-09,Vivaan Patel,AC 2 Tier,314,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,42
+1012,1004,2023-01-29,Vihaan Patel,AC 2 Tier,485,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,25
+1014,1004,2023-01-29,Reyansh Patel,AC 2 Tier,649,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,25
+1017,1004,2023-01-20,Aditya Gupta,AC 2 Tier,1333,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,18
+1028,1004,2023-01-29,Aditya Sharma,Sleeper,707,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,46
+1035,1004,2023-01-28,Sai Das,Sleeper,1024,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,18
+1038,1004,2023-01-08,Ishaan Mehta,Sleeper,303,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,8
+1040,1004,2023-01-16,Reyansh Das,AC First Class,320,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,46
+1046,1004,2023-01-04,Vivaan Reddy,Sleeper,1468,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,31
+1057,1004,2023-01-09,Vivaan Patel,AC First Class,766,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,49
+1072,1004,2023-01-12,Reyansh Gupta,Sleeper,988,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,6
+1080,1004,2023-01-22,Aarav Gupta,AC First Class,547,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,40
+1084,1004,2023-01-29,Arjun Kumar,AC First Class,1212,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,16
+1085,1004,2023-01-08,Vihaan Chopra,Sleeper,1070,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,8
+1092,1004,2023-01-03,Vivaan Mehta,AC 2 Tier,887,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,48
+1095,1004,2023-01-11,Aditya Sharma,AC First Class,327,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,23
+1097,1004,2023-01-16,Vivaan Verma,AC 2 Tier,998,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,11
+1098,1004,2023-01-18,Sai Gupta,AC First Class,649,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,18
+1108,1004,2023-01-22,Arjun Gupta,AC First Class,724,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,40
+1113,1004,2023-01-22,Aarav Das,AC 2 Tier,225,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,28
+1114,1004,2023-01-27,Sai Kumar,AC First Class,941,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,22
+1117,1004,2023-01-27,Arjun Chopra,AC 2 Tier,702,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,13
+1138,1004,2023-01-10,Vivaan Chopra,AC 2 Tier,1364,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,1
+1147,1004,2023-01-23,Aditya Mehta,AC 2 Tier,1224,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,48
+1157,1004,2023-01-14,Shaurya Chopra,AC 2 Tier,1475,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,23
+1158,1004,2023-01-21,Reyansh Singh,AC 3 Tier,746,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,46
+1170,1004,2023-01-02,Vivaan Mehta,AC First Class,990,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,23
+1176,1004,2023-01-31,Shaurya Mehta,Sleeper,1464,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,39
+1185,1004,2023-01-31,Aarav Kumar,AC First Class,712,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,45
+1186,1004,2023-01-28,Vihaan Mehta,AC First Class,1189,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,2
+1192,1004,2023-01-02,Krishna Mehta,AC 3 Tier,384,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,7
+1196,1004,2023-01-31,Shaurya Verma,AC 3 Tier,1013,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,31
+1199,1004,2023-01-27,Arjun Reddy,AC 3 Tier,1165,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,1
+1208,1004,2023-01-09,Sai Reddy,AC First Class,387,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,49
+1216,1004,2023-01-15,Arjun Kumar,Sleeper,1125,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,25
+1219,1004,2023-01-22,Krishna Gupta,AC First Class,350,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,40
+1229,1004,2023-01-12,Vivaan Kumar,AC 2 Tier,1429,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,7
+1237,1004,2023-01-15,Aditya Sharma,AC 2 Tier,838,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,47
+1240,1004,2023-01-22,Sai Patel,AC First Class,1048,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,40
+1247,1004,2023-01-28,Vivaan Patel,Sleeper,1141,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,18
+1277,1004,2023-01-12,Ishaan Singh,AC 2 Tier,1119,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,7
+1280,1004,2023-01-17,Aarav Chopra,AC 3 Tier,608,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,15
+1289,1004,2023-01-20,Aarav Verma,Sleeper,724,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,15
+1292,1004,2023-01-21,Sai Kumar,Sleeper,427,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,18
+1293,1004,2023-01-20,Vivaan Mehta,AC 3 Tier,494,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,34
+1295,1004,2023-01-06,Ishaan Mehta,AC 2 Tier,338,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,46
+1297,1004,2023-01-02,Aarav Singh,AC 2 Tier,233,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,10
+1306,1004,2023-01-24,Shaurya Singh,AC 2 Tier,582,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,29
+1307,1004,2023-01-23,Arjun Patel,AC 2 Tier,369,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,48
+1317,1004,2023-01-25,Vihaan Das,AC 2 Tier,1015,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,40
+1330,1004,2023-01-22,Ishaan Chopra,AC 3 Tier,1329,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,44
+1339,1004,2023-01-20,Reyansh Kumar,AC 2 Tier,818,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,18
+1340,1004,2023-01-08,Arjun Reddy,AC First Class,349,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,2
+1342,1004,2023-01-07,Vihaan Patel,AC 2 Tier,853,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,12
+1348,1004,2023-01-17,Sai Sharma,AC 2 Tier,1218,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,3
+1351,1004,2023-01-20,Ishaan Gupta,Sleeper,420,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,15
+1352,1004,2023-01-05,Reyansh Singh,AC First Class,949,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,28
+1356,1004,2023-01-12,Reyansh Patel,AC 2 Tier,495,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,7
+1366,1004,2023-01-11,Arjun Gupta,AC First Class,617,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,23
+1367,1004,2023-01-17,Aarav Das,Sleeper,482,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,21
+1369,1004,2023-01-11,Ishaan Mehta,AC 2 Tier,1318,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,20
+1382,1004,2023-01-21,Arjun Kumar,AC 2 Tier,784,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,23
+1384,1004,2023-01-29,Vihaan Kumar,AC First Class,1214,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,16
+1388,1004,2023-01-09,Reyansh Singh,AC 2 Tier,532,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,42
+1393,1004,2023-01-08,Shaurya Chopra,AC 2 Tier,818,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,34
+1399,1004,2023-01-25,Krishna Gupta,AC 3 Tier,1420,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,48
+1404,1004,2023-01-26,Aditya Reddy,AC 3 Tier,1251,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,47
+1405,1004,2023-01-15,Reyansh Mehta,AC First Class,831,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,48
+1409,1004,2023-01-06,Aarav Patel,AC 2 Tier,983,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,46
+1410,1004,2023-01-28,Arjun Patel,Sleeper,1304,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,18
+1412,1004,2023-01-17,Vihaan Patel,Sleeper,246,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,21
+1418,1004,2023-01-15,Aditya Das,AC 3 Tier,315,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,48
+1423,1004,2023-01-02,Shaurya Das,AC 2 Tier,1052,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,10
+1424,1004,2023-01-05,Arjun Mehta,AC 3 Tier,1301,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,42
+1425,1004,2023-01-08,Shaurya Patel,AC 3 Tier,1148,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,37
+1429,1004,2023-01-22,Aditya Singh,Sleeper,585,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,37
+1441,1004,2023-01-06,Vihaan Verma,AC 3 Tier,1319,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,25
+1442,1004,2023-01-06,Vivaan Sharma,Sleeper,352,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,39
+1445,1004,2023-01-12,Arjun Mehta,AC First Class,232,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,49
+1451,1004,2023-01-19,Arjun Reddy,AC 2 Tier,365,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,31
+1453,1004,2023-01-18,Vihaan Singh,Sleeper,550,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,22
+1467,1004,2023-01-12,Aarav Verma,AC 3 Tier,378,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,3
+1471,1004,2023-01-13,Arjun Gupta,AC 3 Tier,1371,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,50
+1474,1004,2023-01-09,Vihaan Patel,AC First Class,357,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,49
+1494,1004,2023-01-26,Arjun Singh,AC First Class,913,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,34
+1495,1004,2023-01-04,Krishna Verma,AC 2 Tier,337,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,15
+1499,1004,2023-01-21,Vihaan Patel,AC First Class,1010,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,4
+1501,1004,2023-01-13,Krishna Das,AC 3 Tier,770,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,50
+1529,1004,2023-01-31,Ishaan Patel,Sleeper,390,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,39
+1531,1004,2023-01-27,Reyansh Patel,AC 2 Tier,861,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,13
+1534,1004,2023-01-01,Ishaan Mehta,AC First Class,1134,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,7
+1556,1004,2023-01-17,Reyansh Verma,AC First Class,1067,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,36
+1561,1004,2023-01-04,Reyansh Kumar,AC 2 Tier,559,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,15
+1565,1004,2023-01-09,Arjun Sharma,AC 2 Tier,1380,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,42
+1567,1004,2023-01-28,Sai Sharma,AC 2 Tier,522,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,43
+1572,1004,2023-01-30,Aditya Sharma,Sleeper,1370,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,40
+1583,1004,2023-01-24,Krishna Mehta,AC 3 Tier,1007,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,48
+1594,1004,2023-01-28,Reyansh Singh,AC 3 Tier,393,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,6
+1595,1004,2023-01-04,Aditya Gupta,Sleeper,326,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,31
+1600,1004,2023-01-27,Aarav Kumar,Sleeper,983,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,12
+1616,1004,2023-01-01,Aditya Singh,AC 3 Tier,897,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,38
+1635,1004,2023-01-31,Vihaan Mehta,AC 3 Tier,309,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,31
+1644,1004,2023-01-12,Ishaan Reddy,Sleeper,739,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,6
+1645,1004,2023-01-15,Sai Reddy,AC 2 Tier,1355,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,47
+1647,1004,2023-01-25,Arjun Sharma,Sleeper,992,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,47
+1650,1004,2023-01-06,Arjun Chopra,AC 3 Tier,458,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,25
+1655,1004,2023-01-05,Krishna Gupta,Sleeper,1352,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,0
+1661,1004,2023-01-28,Aditya Singh,AC 3 Tier,815,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,6
+1669,1004,2023-01-17,Shaurya Das,Sleeper,695,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,21
+1675,1004,2023-01-30,Shaurya Chopra,Sleeper,658,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,40
+1684,1004,2023-01-13,Vivaan Reddy,AC 3 Tier,902,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,50
+1689,1004,2023-01-26,Aditya Sharma,AC 2 Tier,1399,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,27
+1694,1004,2023-01-19,Shaurya Mehta,AC 2 Tier,569,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,31
+1699,1004,2023-01-01,Ishaan Das,AC 3 Tier,964,Garib Rath,Ahmedabad,Kolkata,"Fri,Mon,Sat,Tue,Wed",100,38
+1001,1003,2023-01-05,Sai Mehta,Sleeper,389,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,11
+1007,1003,2023-01-12,Arjun Mehta,Sleeper,1447,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,7
+1022,1003,2023-01-25,Aarav Kumar,Sleeper,1426,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,44
+1023,1003,2023-01-16,Aditya Kumar,AC 2 Tier,829,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,29
+1042,1003,2023-01-14,Sai Singh,AC 3 Tier,588,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,16
+1043,1003,2023-01-07,Shaurya Sharma,Sleeper,842,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,21
+1054,1003,2023-01-30,Krishna Mehta,AC 2 Tier,436,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,45
+1062,1003,2023-01-12,Aditya Chopra,AC 3 Tier,711,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,27
+1070,1003,2023-01-31,Ishaan Sharma,AC 2 Tier,565,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,31
+1079,1003,2023-01-07,Arjun Gupta,AC First Class,1104,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,29
+1093,1003,2023-01-29,Reyansh Mehta,AC 3 Tier,508,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,8
+1099,1003,2023-01-14,Vivaan Patel,AC First Class,888,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,41
+1103,1003,2023-01-13,Shaurya Reddy,AC First Class,869,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,19
+1104,1003,2023-01-25,Vivaan Das,AC First Class,716,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,22
+1109,1003,2023-01-06,Sai Reddy,AC 3 Tier,837,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,24
+1120,1003,2023-01-06,Aarav Das,AC 2 Tier,729,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,50
+1121,1003,2023-01-09,Reyansh Sharma,Sleeper,1258,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,5
+1127,1003,2023-01-09,Aditya Patel,AC 3 Tier,846,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,5
+1134,1003,2023-01-06,Aditya Reddy,AC First Class,433,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,6
+1143,1003,2023-01-23,Vihaan Das,Sleeper,678,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,42
+1144,1003,2023-01-26,Vivaan Mehta,AC First Class,435,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,21
+1153,1003,2023-01-14,Aditya Verma,Sleeper,529,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,3
+1154,1003,2023-01-14,Reyansh Chopra,AC First Class,1326,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,41
+1166,1003,2023-01-30,Vivaan Gupta,Sleeper,779,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,5
+1169,1003,2023-01-28,Krishna Singh,AC First Class,678,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,41
+1180,1003,2023-01-14,Vihaan Chopra,AC First Class,1359,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,41
+1191,1003,2023-01-22,Krishna Sharma,Sleeper,832,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,32
+1193,1003,2023-01-11,Sai Kumar,AC 3 Tier,470,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,27
+1195,1003,2023-01-30,Ishaan Verma,AC 2 Tier,435,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,45
+1204,1003,2023-01-22,Arjun Patel,AC 3 Tier,1049,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,38
+1207,1003,2023-01-04,Krishna Verma,AC 2 Tier,324,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,19
+1213,1003,2023-01-26,Krishna Reddy,Sleeper,469,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,19
+1215,1003,2023-01-02,Ishaan Mehta,Sleeper,330,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,49
+1221,1003,2023-01-20,Reyansh Kumar,AC 2 Tier,980,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,43
+1226,1003,2023-01-31,Reyansh Kumar,Sleeper,386,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,17
+1230,1003,2023-01-12,Arjun Verma,AC 3 Tier,516,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,27
+1232,1003,2023-01-04,Shaurya Das,AC First Class,1348,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,32
+1241,1003,2023-01-07,Reyansh Reddy,AC 2 Tier,1080,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,28
+1244,1003,2023-01-31,Krishna Gupta,AC 2 Tier,792,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,31
+1245,1003,2023-01-04,Krishna Das,AC First Class,559,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,32
+1249,1003,2023-01-04,Shaurya Kumar,AC 2 Tier,551,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,19
+1252,1003,2023-01-24,Krishna Sharma,AC 2 Tier,544,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,25
+1254,1003,2023-01-24,Aarav Sharma,Sleeper,499,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,44
+1255,1003,2023-01-07,Vihaan Chopra,Sleeper,562,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,21
+1257,1003,2023-01-05,Krishna Patel,AC First Class,1105,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,45
+1260,1003,2023-01-27,Sai Das,Sleeper,1459,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,40
+1266,1003,2023-01-30,Reyansh Gupta,AC First Class,892,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,28
+1279,1003,2023-01-22,Reyansh Patel,AC First Class,777,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,8
+1285,1003,2023-01-30,Vihaan Verma,Sleeper,1011,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,5
+1291,1003,2023-01-08,Shaurya Reddy,Sleeper,688,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,41
+1294,1003,2023-01-14,Shaurya Sharma,AC 3 Tier,1368,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,16
+1298,1003,2023-01-26,Vihaan Sharma,AC 3 Tier,1486,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,36
+1300,1003,2023-01-18,Aarav Patel,AC First Class,1180,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,42
+1302,1003,2023-01-07,Reyansh Das,Sleeper,846,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,21
+1303,1003,2023-01-17,Krishna Singh,AC First Class,718,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,34
+1309,1003,2023-01-11,Krishna Das,AC 2 Tier,805,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,29
+1310,1003,2023-01-15,Aditya Chopra,AC 3 Tier,1109,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,21
+1311,1003,2023-01-15,Ishaan Mehta,AC First Class,762,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,46
+1318,1003,2023-01-21,Aarav Reddy,Sleeper,253,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,34
+1321,1003,2023-01-23,Ishaan Kumar,Sleeper,477,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,42
+1326,1003,2023-01-18,Vivaan Das,AC First Class,1329,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,42
+1334,1003,2023-01-28,Aditya Gupta,AC 3 Tier,1500,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,7
+1347,1003,2023-01-30,Vihaan Das,AC 3 Tier,526,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,25
+1355,1003,2023-01-27,Ishaan Kumar,AC 3 Tier,398,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,49
+1360,1003,2023-01-06,Reyansh Mehta,AC 2 Tier,1238,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,50
+1362,1003,2023-01-11,Arjun Das,AC 2 Tier,1488,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,29
+1370,1003,2023-01-22,Vihaan Gupta,AC 3 Tier,704,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,38
+1371,1003,2023-01-18,Ishaan Kumar,AC 2 Tier,791,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,45
+1375,1003,2023-01-02,Krishna Reddy,AC 2 Tier,1105,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,43
+1377,1003,2023-01-30,Arjun Gupta,AC 3 Tier,423,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,25
+1390,1003,2023-01-19,Arjun Patel,AC First Class,1075,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,25
+1397,1003,2023-01-20,Ishaan Patel,AC 3 Tier,1179,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,45
+1413,1003,2023-01-15,Vivaan Reddy,AC First Class,670,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,46
+1428,1003,2023-01-03,Krishna Gupta,Sleeper,749,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,21
+1431,1003,2023-01-10,Shaurya Kumar,AC 3 Tier,440,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,39
+1436,1003,2023-01-30,Sai Verma,AC 2 Tier,1047,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,45
+1450,1003,2023-01-26,Krishna Reddy,AC 2 Tier,1031,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,36
+1457,1003,2023-01-01,Aditya Verma,AC First Class,357,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,32
+1458,1003,2023-01-06,Vihaan Kumar,AC First Class,1307,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,6
+1459,1003,2023-01-13,Ishaan Singh,AC 2 Tier,309,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,50
+1466,1003,2023-01-12,Reyansh Mehta,Sleeper,831,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,7
+1473,1003,2023-01-09,Arjun Sharma,Sleeper,542,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,5
+1475,1003,2023-01-09,Reyansh Das,AC 3 Tier,1137,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,5
+1480,1003,2023-01-10,Vihaan Gupta,AC 2 Tier,970,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,6
+1481,1003,2023-01-27,Aditya Gupta,Sleeper,1354,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,40
+1491,1003,2023-01-13,Vivaan Das,AC 3 Tier,906,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,16
+1496,1003,2023-01-02,Aarav Verma,AC 2 Tier,423,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,43
+1503,1003,2023-01-07,Reyansh Mehta,AC 2 Tier,1202,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,28
+1510,1003,2023-01-05,Sai Patel,AC First Class,1468,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,45
+1515,1003,2023-01-08,Vivaan Singh,AC 3 Tier,1136,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,18
+1524,1003,2023-01-31,Arjun Reddy,AC 3 Tier,1042,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,3
+1532,1003,2023-01-11,Aarav Verma,AC First Class,903,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,29
+1538,1003,2023-01-24,Shaurya Reddy,Sleeper,394,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,44
+1543,1003,2023-01-29,Aditya Chopra,AC First Class,472,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,4
+1548,1003,2023-01-26,Aarav Das,AC 2 Tier,372,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,36
+1551,1003,2023-01-21,Reyansh Reddy,AC First Class,990,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,40
+1553,1003,2023-01-05,Ishaan Sharma,AC 2 Tier,1318,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,1
+1563,1003,2023-01-17,Shaurya Reddy,AC 3 Tier,961,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,33
+1568,1003,2023-01-25,Arjun Chopra,AC 3 Tier,1242,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,19
+1570,1003,2023-01-13,Vihaan Singh,Sleeper,1332,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,14
+1573,1003,2023-01-04,Vihaan Patel,AC 3 Tier,657,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,24
+1575,1003,2023-01-11,Reyansh Kumar,AC First Class,216,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,29
+1576,1003,2023-01-07,Sai Reddy,AC 3 Tier,1150,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,46
+1577,1003,2023-01-19,Reyansh Singh,AC 3 Tier,508,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,14
+1579,1003,2023-01-21,Vihaan Verma,Sleeper,970,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,34
+1586,1003,2023-01-15,Shaurya Mehta,Sleeper,615,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,48
+1590,1003,2023-01-28,Krishna Singh,AC 3 Tier,823,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,7
+1602,1003,2023-01-09,Shaurya Chopra,Sleeper,1457,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,5
+1608,1003,2023-01-06,Shaurya Patel,AC 3 Tier,260,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,24
+1609,1003,2023-01-02,Vihaan Verma,AC 2 Tier,1396,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,43
+1619,1003,2023-01-23,Krishna Sharma,AC 2 Tier,818,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,46
+1620,1003,2023-01-05,Reyansh Reddy,AC First Class,849,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,45
+1627,1003,2023-01-07,Reyansh Singh,AC 2 Tier,725,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,28
+1630,1003,2023-01-18,Aarav Kumar,AC First Class,1383,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,42
+1649,1003,2023-01-03,Vivaan Reddy,AC 3 Tier,446,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,13
+1657,1003,2023-01-13,Ishaan Gupta,Sleeper,552,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,14
+1658,1003,2023-01-13,Vivaan Mehta,Sleeper,1010,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,14
+1659,1003,2023-01-23,Krishna Gupta,AC First Class,750,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,45
+1660,1003,2023-01-01,Sai Singh,AC 2 Tier,774,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,21
+1670,1003,2023-01-16,Krishna Das,AC 3 Tier,1171,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,46
+1676,1003,2023-01-20,Vivaan Verma,AC First Class,971,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,25
+1677,1003,2023-01-15,Aarav Singh,AC First Class,818,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,46
+1690,1003,2023-01-15,Sai Gupta,Sleeper,1499,Shatabdi Express,Chennai,Howrah,"Sat,Tue,Wed,Mon,Thu",100,48
+6,1001,2023-01-22,Aarav Reddy,Sleeper,676,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,64
+7,1001,2023-01-13,Shaurya Verma,AC 2 Tier,533,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,56
+12,1001,2023-01-07,Vihaan Sharma,AC 3 Tier,1222,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,61
+19,1001,2023-01-22,Aditya Verma,AC 2 Tier,896,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,81
+20,1001,2023-01-10,Sai Kumar,AC First Class,206,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,40
+22,1001,2023-01-28,Aarav Verma,AC 3 Tier,513,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,48
+26,1001,2023-01-25,Reyansh Reddy,AC 3 Tier,1173,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,54
+32,1001,2023-01-28,Aarav Kumar,AC 3 Tier,770,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,48
+35,1001,2023-01-04,Aarav Patel,AC First Class,1041,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,84
+45,1001,2023-01-02,Ishaan Kumar,AC 3 Tier,316,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,69
+48,1001,2023-01-14,Sai Singh,AC 2 Tier,734,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,89
+51,1001,2023-01-15,Aditya Verma,Sleeper,1301,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,54
+56,1001,2023-01-24,Shaurya Sharma,AC 2 Tier,777,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,41
+59,1001,2023-01-01,Aarav Patel,AC 2 Tier,530,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,77
+61,1001,2023-01-31,Vivaan Singh,Sleeper,956,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,100
+66,1001,2023-01-06,Aditya Chopra,AC 3 Tier,746,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,73
+70,1001,2023-01-31,Sai Chopra,AC First Class,1298,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,47
+76,1001,2023-01-31,Vivaan Singh,Sleeper,815,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,100
+84,1001,2023-01-02,Krishna Chopra,Sleeper,1132,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,40
+106,1001,2023-01-16,Arjun Mehta,Sleeper,916,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,84
+111,1001,2023-01-19,Aarav Verma,AC First Class,1012,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,78
+119,1001,2023-01-09,Arjun Kumar,AC First Class,1367,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,80
+125,1001,2023-01-10,Sai Mehta,AC 3 Tier,827,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,83
+129,1001,2023-01-24,Ishaan Reddy,AC 3 Tier,643,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,41
+132,1001,2023-01-23,Reyansh Gupta,AC 2 Tier,293,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,93
+133,1001,2023-01-18,Krishna Sharma,AC First Class,410,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,79
+134,1001,2023-01-19,Arjun Kumar,AC First Class,1102,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,78
+136,1001,2023-01-13,Arjun Gupta,Sleeper,510,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,86
+138,1001,2023-01-18,Arjun Verma,AC First Class,1122,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,79
+147,1001,2023-01-06,Aditya Patel,AC First Class,454,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,53
+152,1001,2023-01-25,Arjun Das,AC First Class,769,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,46
+156,1001,2023-01-15,Sai Sharma,AC 2 Tier,862,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,74
+157,1001,2023-01-25,Krishna Reddy,Sleeper,1311,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,59
+161,1001,2023-01-21,Krishna Verma,AC 3 Tier,836,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,98
+163,1001,2023-01-15,Shaurya Mehta,AC First Class,797,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,82
+174,1001,2023-01-17,Reyansh Das,AC 3 Tier,1039,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,52
+178,1001,2023-01-08,Vihaan Patel,Sleeper,1088,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,52
+179,1001,2023-01-25,Vivaan Das,AC 3 Tier,813,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,54
+180,1001,2023-01-02,Ishaan Kumar,AC 2 Tier,934,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,72
+188,1001,2023-01-08,Vivaan Das,AC 2 Tier,804,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,90
+189,1001,2023-01-27,Reyansh Patel,Sleeper,1359,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,44
+201,1001,2023-01-20,Sai Gupta,AC 3 Tier,329,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,98
+204,1001,2023-01-08,Aditya Gupta,AC First Class,1129,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,83
+215,1001,2023-01-12,Aditya Gupta,Sleeper,556,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,80
+221,1001,2023-01-11,Reyansh Das,Sleeper,458,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,40
+228,1001,2023-01-03,Aarav Verma,AC 2 Tier,466,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,50
+243,1001,2023-01-10,Vihaan Mehta,AC 2 Tier,293,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,64
+249,1001,2023-01-28,Vihaan Verma,AC First Class,1055,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,79
+254,1001,2023-01-17,Ishaan Reddy,AC 3 Tier,915,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,52
+260,1001,2023-01-10,Krishna Kumar,Sleeper,316,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,83
+269,1001,2023-01-18,Aditya Reddy,AC 2 Tier,1434,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,78
+284,1001,2023-01-25,Reyansh Das,AC First Class,1251,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,46
+300,1001,2023-01-25,Ishaan Sharma,AC 3 Tier,290,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,54
+305,1001,2023-01-25,Reyansh Reddy,AC 2 Tier,297,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,43
+317,1001,2023-01-20,Ishaan Patel,AC 2 Tier,961,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,82
+321,1001,2023-01-09,Vivaan Gupta,AC 3 Tier,1453,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,96
+323,1001,2023-01-15,Shaurya Gupta,Sleeper,854,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,54
+333,1001,2023-01-27,Vihaan Gupta,AC 3 Tier,822,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,86
+339,1001,2023-01-02,Sai Kumar,AC 3 Tier,1371,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,69
+346,1001,2023-01-09,Vihaan Verma,AC 3 Tier,398,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,96
+347,1001,2023-01-10,Vivaan Verma,AC 3 Tier,527,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,83
+350,1001,2023-01-03,Shaurya Sharma,AC First Class,693,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,70
+354,1001,2023-01-13,Shaurya Chopra,AC 3 Tier,942,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,97
+359,1001,2023-01-05,Reyansh Singh,AC First Class,505,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,49
+364,1001,2023-01-20,Ishaan Mehta,AC 3 Tier,305,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,98
+381,1001,2023-01-14,Vihaan Das,Sleeper,481,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,55
+382,1001,2023-01-31,Sai Patel,AC First Class,1174,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,47
+401,1001,2023-01-17,Shaurya Gupta,AC 2 Tier,359,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,43
+417,1001,2023-01-08,Aarav Sharma,Sleeper,1416,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,52
+418,1001,2023-01-15,Arjun Chopra,AC 3 Tier,290,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,62
+423,1001,2023-01-18,Ishaan Reddy,AC First Class,1338,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,79
+427,1001,2023-01-18,Reyansh Chopra,AC 3 Tier,995,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,50
+438,1001,2023-01-19,Aditya Sharma,Sleeper,734,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,59
+447,1001,2023-01-18,Ishaan Gupta,Sleeper,234,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,62
+455,1001,2023-01-16,Vihaan Sharma,Sleeper,1281,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,84
+456,1001,2023-01-08,Aditya Das,AC 2 Tier,295,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,90
+457,1001,2023-01-22,Aarav Mehta,Sleeper,567,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,64
+461,1001,2023-01-14,Arjun Sharma,AC 2 Tier,1439,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,89
+466,1001,2023-01-09,Ishaan Reddy,AC 3 Tier,997,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,96
+470,1001,2023-01-03,Aditya Gupta,Sleeper,1422,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,97
+477,1001,2023-01-05,Krishna Gupta,AC First Class,880,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,49
+488,1001,2023-01-26,Krishna Mehta,Sleeper,423,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,50
+491,1001,2023-01-04,Shaurya Reddy,AC 3 Tier,1112,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,73
+493,1001,2023-01-16,Aarav Kumar,AC First Class,375,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,73
+494,1001,2023-01-27,Krishna Gupta,AC 2 Tier,902,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,47
+501,1001,2023-01-24,Sai Kumar,AC First Class,1412,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,97
+506,1001,2023-01-12,Vivaan Patel,AC 3 Tier,809,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,61
+512,1001,2023-01-28,Vihaan Verma,AC First Class,479,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,79
+515,1001,2023-01-19,Vihaan Verma,AC 2 Tier,266,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,43
+518,1001,2023-01-09,Aditya Verma,Sleeper,1103,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,41
+520,1001,2023-01-15,Vihaan Patel,Sleeper,1099,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,54
+521,1001,2023-01-25,Shaurya Sharma,AC 2 Tier,1449,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,43
+523,1001,2023-01-19,Shaurya Chopra,AC 2 Tier,1422,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,43
+526,1001,2023-01-09,Aditya Chopra,AC 3 Tier,499,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,96
+529,1001,2023-01-21,Shaurya Reddy,AC 2 Tier,955,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,46
+536,1001,2023-01-31,Reyansh Das,AC 3 Tier,818,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,41
+538,1001,2023-01-12,Sai Das,AC First Class,1481,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,66
+540,1001,2023-01-07,Aarav Sharma,AC 3 Tier,1415,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,61
+542,1001,2023-01-28,Ishaan Singh,AC First Class,345,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,79
+548,1001,2023-01-05,Reyansh Reddy,AC 2 Tier,1079,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,63
+553,1001,2023-01-08,Shaurya Kumar,Sleeper,939,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,52
+556,1001,2023-01-01,Sai Kumar,Sleeper,323,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,100
+559,1001,2023-01-10,Aarav Chopra,AC 3 Tier,518,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,83
+563,1001,2023-01-01,Vivaan Verma,AC 3 Tier,1216,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,58
+570,1001,2023-01-02,Sai Mehta,Sleeper,1166,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,40
+579,1001,2023-01-30,Reyansh Patel,AC 3 Tier,1309,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,86
+583,1001,2023-01-02,Vihaan Kumar,AC First Class,962,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,56
+585,1001,2023-01-19,Reyansh Chopra,AC First Class,467,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,78
+594,1001,2023-01-22,Vivaan Singh,AC 3 Tier,263,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,91
+599,1001,2023-01-07,Ishaan Sharma,Sleeper,879,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,73
+600,1001,2023-01-02,Reyansh Chopra,AC 3 Tier,1375,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,69
+614,1001,2023-01-23,Sai Verma,AC 3 Tier,1208,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,65
+616,1001,2023-01-08,Vivaan Gupta,Sleeper,1278,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,52
+629,1001,2023-01-24,Arjun Sharma,AC First Class,1097,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,97
+633,1001,2023-01-10,Aarav Kumar,AC 2 Tier,414,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,64
+634,1001,2023-01-11,Aarav Kumar,AC 3 Tier,353,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,48
+637,1001,2023-01-11,Vivaan Mehta,AC First Class,1334,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,59
+640,1001,2023-01-12,Vivaan Patel,Sleeper,803,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,80
+642,1001,2023-01-07,Reyansh Reddy,Sleeper,1169,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,73
+643,1001,2023-01-10,Shaurya Reddy,AC First Class,742,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,40
+644,1001,2023-01-21,Reyansh Gupta,AC 3 Tier,959,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,98
+647,1001,2023-01-05,Krishna Verma,AC 2 Tier,1308,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,63
+652,1001,2023-01-14,Shaurya Patel,AC 3 Tier,1484,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,71
+654,1001,2023-01-13,Aditya Chopra,AC 2 Tier,765,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,56
+657,1001,2023-01-26,Krishna Reddy,AC 2 Tier,1041,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,84
+669,1001,2023-01-30,Aarav Patel,AC 2 Tier,954,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,64
+674,1001,2023-01-06,Arjun Das,AC 3 Tier,661,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,73
+688,1001,2023-01-16,Vihaan Verma,AC 3 Tier,887,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,88
+694,1001,2023-01-28,Sai Verma,AC 3 Tier,901,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,48
+696,1001,2023-01-16,Aarav Mehta,AC 2 Tier,1499,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,79
+697,1001,2023-01-01,Arjun Das,AC 3 Tier,545,Duronto Express,Chennai,Pune,"Sun,Mon,Thu,Wed,Fri",100,58
+1,1005,2023-01-09,Vihaan Kumar,AC First Class,896,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,75
+5,1005,2023-01-10,Arjun Singh,AC 3 Tier,342,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,74
+27,1005,2023-01-06,Ishaan Mehta,AC First Class,633,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,95
+28,1005,2023-01-25,Vivaan Gupta,AC First Class,964,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,43
+34,1005,2023-01-16,Vihaan Sharma,AC First Class,589,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,55
+38,1005,2023-01-15,Shaurya Kumar,AC 3 Tier,770,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,47
+46,1005,2023-01-03,Reyansh Das,Sleeper,681,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,61
+57,1005,2023-01-07,Aarav Singh,AC 2 Tier,1235,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,46
+62,1005,2023-01-18,Vihaan Das,AC 3 Tier,285,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,75
+72,1005,2023-01-31,Sai Das,Sleeper,1421,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,58
+74,1005,2023-01-07,Krishna Kumar,AC First Class,203,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,83
+75,1005,2023-01-30,Vihaan Verma,AC 2 Tier,1083,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,74
+77,1005,2023-01-10,Shaurya Singh,AC First Class,805,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,95
+78,1005,2023-01-05,Aarav Mehta,AC First Class,556,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,79
+79,1005,2023-01-19,Krishna Kumar,Sleeper,822,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,95
+102,1005,2023-01-18,Reyansh Verma,Sleeper,371,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,75
+120,1005,2023-01-22,Krishna Sharma,Sleeper,1212,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,87
+140,1005,2023-01-02,Arjun Das,AC 3 Tier,1481,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,62
+142,1005,2023-01-03,Arjun Chopra,AC First Class,1122,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,68
+146,1005,2023-01-08,Shaurya Kumar,AC 3 Tier,346,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,51
+149,1005,2023-01-16,Aarav Verma,Sleeper,1084,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,93
+160,1005,2023-01-05,Arjun Kumar,AC First Class,448,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,79
+162,1005,2023-01-01,Sai Reddy,Sleeper,660,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,57
+164,1005,2023-01-23,Arjun Mehta,AC First Class,1167,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,84
+166,1005,2023-01-17,Sai Singh,AC 2 Tier,1049,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,90
+169,1005,2023-01-16,Ishaan Sharma,AC First Class,1132,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,55
+173,1005,2023-01-31,Shaurya Das,Sleeper,1101,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,58
+176,1005,2023-01-23,Arjun Das,AC 2 Tier,1292,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,93
+183,1005,2023-01-28,Shaurya Das,AC First Class,1394,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,64
+191,1005,2023-01-26,Reyansh Kumar,AC 3 Tier,1471,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,83
+195,1005,2023-01-29,Sai Sharma,AC 2 Tier,536,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,88
+198,1005,2023-01-12,Krishna Das,Sleeper,741,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,96
+199,1005,2023-01-04,Aarav Sharma,AC 2 Tier,1397,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,91
+213,1005,2023-01-01,Arjun Kumar,AC 3 Tier,1306,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,83
+218,1005,2023-01-08,Ishaan Mehta,AC 2 Tier,1138,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,41
+223,1005,2023-01-17,Sai Patel,AC First Class,403,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,72
+229,1005,2023-01-02,Shaurya Verma,AC 2 Tier,450,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,94
+234,1005,2023-01-20,Reyansh Gupta,AC 2 Tier,259,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,83
+251,1005,2023-01-15,Vivaan Singh,AC First Class,416,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,64
+262,1005,2023-01-17,Arjun Verma,Sleeper,1121,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,84
+263,1005,2023-01-21,Aarav Das,AC First Class,1226,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,84
+272,1005,2023-01-13,Arjun Reddy,Sleeper,1067,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,87
+273,1005,2023-01-12,Vivaan Sharma,AC 2 Tier,569,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,82
+276,1005,2023-01-05,Aarav Singh,AC 3 Tier,532,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,48
+282,1005,2023-01-05,Vihaan Das,AC First Class,960,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,79
+283,1005,2023-01-30,Aarav Verma,Sleeper,783,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,85
+287,1005,2023-01-12,Vivaan Mehta,Sleeper,967,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,96
+297,1005,2023-01-18,Reyansh Gupta,Sleeper,999,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,75
+314,1005,2023-01-26,Krishna Sharma,AC 3 Tier,1444,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,83
+330,1005,2023-01-03,Shaurya Das,Sleeper,1121,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,61
+336,1005,2023-01-09,Reyansh Gupta,Sleeper,1229,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,66
+345,1005,2023-01-18,Vihaan Gupta,AC 3 Tier,1155,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,75
+355,1005,2023-01-10,Aditya Chopra,AC First Class,1326,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,95
+360,1005,2023-01-29,Vivaan Gupta,AC 2 Tier,1455,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,88
+362,1005,2023-01-18,Shaurya Patel,AC First Class,234,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,90
+365,1005,2023-01-16,Aarav Reddy,AC First Class,502,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,55
+369,1005,2023-01-07,Vihaan Reddy,AC First Class,1276,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,83
+374,1005,2023-01-30,Arjun Kumar,Sleeper,1374,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,85
+379,1005,2023-01-24,Arjun Reddy,AC 3 Tier,303,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,85
+387,1005,2023-01-20,Aditya Sharma,AC 2 Tier,1130,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,83
+392,1005,2023-01-11,Vivaan Singh,Sleeper,578,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,84
+395,1005,2023-01-24,Vivaan Gupta,AC 2 Tier,936,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,43
+402,1005,2023-01-04,Vivaan Chopra,AC 3 Tier,1372,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,83
+403,1005,2023-01-05,Vihaan Reddy,AC First Class,438,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,79
+408,1005,2023-01-03,Arjun Reddy,AC 2 Tier,330,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,67
+409,1005,2023-01-02,Aarav Sharma,Sleeper,787,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,65
+421,1005,2023-01-25,Reyansh Sharma,AC 2 Tier,493,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,84
+431,1005,2023-01-24,Krishna Kumar,AC First Class,627,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,82
+435,1005,2023-01-21,Vihaan Sharma,AC 2 Tier,936,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,56
+436,1005,2023-01-29,Aarav Verma,Sleeper,1161,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,79
+439,1005,2023-01-30,Vivaan Sharma,AC 2 Tier,512,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,74
+441,1005,2023-01-21,Shaurya Verma,AC First Class,1204,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,84
+448,1005,2023-01-24,Sai Reddy,AC 2 Tier,235,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,43
+449,1005,2023-01-27,Sai Kumar,Sleeper,397,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,52
+450,1005,2023-01-05,Sai Sharma,AC 2 Tier,925,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,40
+462,1005,2023-01-31,Arjun Kumar,AC 2 Tier,260,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,42
+464,1005,2023-01-31,Aditya Mehta,AC 3 Tier,1399,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,58
+471,1005,2023-01-26,Ishaan Mehta,Sleeper,797,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,53
+473,1005,2023-01-06,Aarav Reddy,AC 3 Tier,750,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,85
+478,1005,2023-01-13,Krishna Kumar,AC 2 Tier,1081,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,43
+487,1005,2023-01-16,Reyansh Gupta,AC First Class,1313,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,55
+505,1005,2023-01-31,Vivaan Patel,AC First Class,1402,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,83
+507,1005,2023-01-19,Aarav Das,AC 2 Tier,441,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,58
+509,1005,2023-01-13,Aarav Chopra,AC First Class,1066,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,81
+517,1005,2023-01-24,Vivaan Verma,Sleeper,1372,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,75
+519,1005,2023-01-07,Aarav Patel,AC 3 Tier,809,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,81
+524,1005,2023-01-06,Aarav Mehta,AC 2 Tier,1372,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,73
+528,1005,2023-01-21,Aditya Mehta,AC First Class,1125,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,84
+560,1005,2023-01-11,Aditya Singh,AC 2 Tier,1095,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,43
+575,1005,2023-01-02,Sai Chopra,AC First Class,778,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,92
+590,1005,2023-01-12,Reyansh Reddy,AC 2 Tier,1148,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,82
+604,1005,2023-01-20,Vihaan Chopra,AC First Class,1043,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,91
+605,1005,2023-01-16,Shaurya Kumar,AC 2 Tier,984,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,88
+607,1005,2023-01-26,Krishna Reddy,AC 2 Tier,1182,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,90
+608,1005,2023-01-26,Reyansh Mehta,AC 2 Tier,995,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,90
+612,1005,2023-01-27,Aarav Mehta,AC First Class,926,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,64
+615,1005,2023-01-10,Vihaan Reddy,Sleeper,384,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,78
+619,1005,2023-01-23,Arjun Das,AC 2 Tier,348,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,93
+625,1005,2023-01-11,Aarav Kumar,Sleeper,1216,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,84
+635,1005,2023-01-31,Reyansh Reddy,AC First Class,263,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,83
+649,1005,2023-01-14,Aarav Verma,AC 3 Tier,1175,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,85
+655,1005,2023-01-15,Aarav Singh,AC First Class,430,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,64
+667,1005,2023-01-29,Reyansh Singh,AC 3 Tier,594,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,93
+672,1005,2023-01-18,Ishaan Mehta,AC 3 Tier,729,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,75
+680,1005,2023-01-22,Sai Patel,AC 2 Tier,811,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,49
+687,1005,2023-01-10,Vivaan Reddy,AC 3 Tier,801,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,74
+692,1005,2023-01-19,Aarav Das,AC First Class,598,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,90
+693,1005,2023-01-04,Aditya Kumar,AC 2 Tier,1046,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,91
+698,1005,2023-01-25,Aarav Mehta,Sleeper,465,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,80
+699,1005,2023-01-14,Krishna Chopra,AC First Class,1177,Jan Shatabdi,Delhi,Pune,"Sun,Mon,Tue,Thu,Wed",100,75
+1003,1006,2023-01-15,Aarav Singh,AC First Class,361,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,25
+1008,1006,2023-01-06,Ishaan Das,AC 3 Tier,1146,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,49
+1020,1006,2023-01-29,Vihaan Reddy,AC 3 Tier,1239,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,1
+1032,1006,2023-01-16,Krishna Kumar,AC 3 Tier,1369,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,48
+1036,1006,2023-01-11,Vivaan Sharma,AC 3 Tier,589,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,42
+1039,1006,2023-01-18,Aditya Reddy,AC 3 Tier,540,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,23
+1053,1006,2023-01-10,Vihaan Singh,Sleeper,1335,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,11
+1059,1006,2023-01-15,Sai Verma,Sleeper,429,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,46
+1063,1006,2023-01-04,Reyansh Kumar,AC First Class,1471,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,18
+1064,1006,2023-01-05,Krishna Gupta,AC 3 Tier,1044,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,49
+1081,1006,2023-01-03,Vivaan Chopra,AC 2 Tier,391,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,1
+1088,1006,2023-01-17,Reyansh Sharma,AC First Class,1454,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,12
+1089,1006,2023-01-29,Vihaan Verma,AC First Class,525,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,21
+1090,1006,2023-01-28,Aarav Gupta,AC 2 Tier,706,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,26
+1091,1006,2023-01-09,Aditya Reddy,AC 3 Tier,762,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,47
+1100,1006,2023-01-22,Reyansh Chopra,AC First Class,461,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,38
+1102,1006,2023-01-14,Sai Sharma,AC 3 Tier,302,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,25
+1111,1006,2023-01-07,Shaurya Mehta,Sleeper,817,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,48
+1112,1006,2023-01-20,Ishaan Singh,AC 2 Tier,1291,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,49
+1115,1006,2023-01-29,Vihaan Singh,AC First Class,560,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,21
+1116,1006,2023-01-17,Krishna Das,AC First Class,1152,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,12
+1125,1006,2023-01-19,Vivaan Mehta,AC 2 Tier,1071,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,46
+1126,1006,2023-01-18,Ishaan Das,AC First Class,754,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,19
+1129,1006,2023-01-16,Vivaan Singh,AC 2 Tier,405,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,15
+1142,1006,2023-01-20,Sai Gupta,Sleeper,674,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,19
+1149,1006,2023-01-11,Aditya Mehta,Sleeper,387,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,5
+1167,1006,2023-01-10,Shaurya Verma,AC 3 Tier,1114,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,36
+1171,1006,2023-01-26,Vihaan Mehta,Sleeper,458,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,22
+1174,1006,2023-01-05,Sai Mehta,AC 2 Tier,893,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,21
+1181,1006,2023-01-26,Vihaan Patel,AC 3 Tier,361,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,49
+1184,1006,2023-01-01,Vivaan Chopra,AC 3 Tier,351,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,32
+1189,1006,2023-01-25,Krishna Reddy,AC 2 Tier,671,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,50
+1201,1006,2023-01-27,Aditya Sharma,AC First Class,438,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,21
+1205,1006,2023-01-04,Aditya Das,AC 2 Tier,267,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,20
+1206,1006,2023-01-12,Shaurya Das,AC First Class,683,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,21
+1209,1006,2023-01-07,Arjun Reddy,Sleeper,883,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,48
+1218,1006,2023-01-31,Sai Singh,AC First Class,1022,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,42
+1223,1006,2023-01-04,Aditya Reddy,AC First Class,1124,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,18
+1225,1006,2023-01-04,Ishaan Gupta,AC 2 Tier,722,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,20
+1231,1006,2023-01-16,Aditya Mehta,AC 2 Tier,1339,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,15
+1236,1006,2023-01-21,Shaurya Reddy,AC 3 Tier,970,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,40
+1238,1006,2023-01-11,Arjun Sharma,Sleeper,518,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,5
+1256,1006,2023-01-16,Sai Kumar,AC 2 Tier,1484,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,15
+1258,1006,2023-01-10,Vivaan Mehta,AC 2 Tier,1239,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,10
+1264,1006,2023-01-03,Vivaan Kumar,Sleeper,707,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,43
+1265,1006,2023-01-15,Krishna Gupta,AC 3 Tier,945,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,44
+1267,1006,2023-01-20,Vivaan Patel,Sleeper,875,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,19
+1270,1006,2023-01-23,Vivaan Singh,Sleeper,834,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,23
+1301,1006,2023-01-06,Sai Reddy,AC First Class,275,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,39
+1305,1006,2023-01-11,Krishna Kumar,AC 2 Tier,1094,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,24
+1308,1006,2023-01-14,Aditya Sharma,AC 3 Tier,1317,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,25
+1312,1006,2023-01-26,Vivaan Verma,AC First Class,944,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,19
+1314,1006,2023-01-26,Vivaan Singh,AC 3 Tier,337,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,49
+1319,1006,2023-01-06,Reyansh Verma,AC First Class,1350,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,39
+1323,1006,2023-01-12,Sai Patel,AC 2 Tier,814,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,25
+1328,1006,2023-01-24,Krishna Sharma,AC First Class,1038,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,45
+1331,1006,2023-01-19,Krishna Reddy,AC First Class,1229,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,40
+1336,1006,2023-01-06,Shaurya Chopra,AC 3 Tier,1478,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,49
+1337,1006,2023-01-29,Aditya Chopra,Sleeper,258,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,14
+1341,1006,2023-01-02,Ishaan Chopra,AC First Class,1191,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,4
+1343,1006,2023-01-28,Krishna Patel,AC 3 Tier,958,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,49
+1365,1006,2023-01-08,Sai Sharma,AC 3 Tier,238,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,28
+1372,1006,2023-01-07,Aditya Das,AC First Class,914,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,37
+1374,1006,2023-01-18,Aarav Patel,AC 2 Tier,499,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,27
+1376,1006,2023-01-09,Aarav Chopra,AC 3 Tier,1303,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,47
+1379,1006,2023-01-29,Ishaan Sharma,AC 3 Tier,307,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,1
+1383,1006,2023-01-02,Reyansh Kumar,Sleeper,558,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,25
+1387,1006,2023-01-18,Reyansh Singh,AC 3 Tier,1232,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,23
+1389,1006,2023-01-15,Vivaan Patel,Sleeper,890,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,46
+1395,1006,2023-01-08,Arjun Verma,AC First Class,828,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,42
+1403,1006,2023-01-07,Aditya Singh,Sleeper,1245,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,48
+1406,1006,2023-01-01,Arjun Kumar,Sleeper,646,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,40
+1415,1006,2023-01-25,Shaurya Chopra,AC First Class,1459,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,3
+1421,1006,2023-01-17,Ishaan Mehta,AC 2 Tier,763,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,40
+1432,1006,2023-01-25,Shaurya Mehta,AC 3 Tier,1012,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,1
+1443,1006,2023-01-02,Aarav Kumar,AC 3 Tier,1491,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,49
+1452,1006,2023-01-28,Ishaan Reddy,AC First Class,976,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,2
+1462,1006,2023-01-09,Aarav Das,AC 3 Tier,928,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,47
+1464,1006,2023-01-13,Vihaan Chopra,AC 3 Tier,350,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,43
+1478,1006,2023-01-20,Vivaan Verma,AC 2 Tier,1435,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,49
+1479,1006,2023-01-07,Aarav Mehta,AC 3 Tier,1015,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,13
+1483,1006,2023-01-07,Vihaan Patel,Sleeper,1037,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,48
+1484,1006,2023-01-16,Arjun Singh,AC 3 Tier,717,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,48
+1485,1006,2023-01-05,Reyansh Reddy,Sleeper,1119,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,13
+1489,1006,2023-01-22,Arjun Singh,AC First Class,416,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,38
+1497,1006,2023-01-26,Aditya Das,AC 3 Tier,1330,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,49
+1502,1006,2023-01-26,Vivaan Gupta,AC 3 Tier,949,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,49
+1513,1006,2023-01-16,Vihaan Sharma,AC First Class,542,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,8
+1521,1006,2023-01-14,Shaurya Gupta,AC 3 Tier,623,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,25
+1526,1006,2023-01-11,Sai Sharma,AC First Class,491,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,12
+1530,1006,2023-01-15,Vivaan Das,AC First Class,646,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,25
+1533,1006,2023-01-25,Shaurya Verma,Sleeper,1482,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,13
+1544,1006,2023-01-22,Vihaan Kumar,Sleeper,1449,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,12
+1545,1006,2023-01-06,Vihaan Sharma,AC 3 Tier,1486,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,49
+1546,1006,2023-01-05,Vihaan Reddy,AC 3 Tier,377,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,49
+1554,1006,2023-01-06,Arjun Mehta,Sleeper,1402,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,44
+1557,1006,2023-01-13,Arjun Das,AC 3 Tier,768,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,43
+1560,1006,2023-01-31,Aarav Das,AC 3 Tier,376,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,22
+1566,1006,2023-01-03,Shaurya Patel,AC 2 Tier,313,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,1
+1571,1006,2023-01-24,Arjun Reddy,AC 2 Tier,708,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,28
+1580,1006,2023-01-24,Shaurya Singh,AC 3 Tier,1285,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,15
+1591,1006,2023-01-23,Aditya Mehta,AC 3 Tier,871,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,31
+1597,1006,2023-01-03,Arjun Verma,Sleeper,244,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,43
+1601,1006,2023-01-14,Aarav Kumar,AC 3 Tier,583,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,25
+1617,1006,2023-01-06,Vihaan Verma,Sleeper,502,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,44
+1623,1006,2023-01-01,Shaurya Reddy,Sleeper,572,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,40
+1629,1006,2023-01-14,Shaurya Gupta,AC First Class,975,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,30
+1631,1006,2023-01-25,Aarav Patel,AC First Class,350,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,3
+1637,1006,2023-01-30,Krishna Das,AC 2 Tier,809,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,45
+1640,1006,2023-01-21,Krishna Verma,AC 3 Tier,398,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,40
+1662,1006,2023-01-15,Ishaan Patel,AC First Class,1438,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,25
+1663,1006,2023-01-03,Krishna Verma,AC 3 Tier,1033,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,17
+1664,1006,2023-01-16,Aarav Sharma,Sleeper,1255,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,2
+1672,1006,2023-01-27,Vihaan Gupta,Sleeper,991,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,48
+1674,1006,2023-01-07,Arjun Sharma,Sleeper,218,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,48
+1678,1006,2023-01-17,Vivaan Singh,Sleeper,215,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,20
+1680,1006,2023-01-04,Shaurya Singh,AC 2 Tier,766,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,20
+1681,1006,2023-01-11,Ishaan Verma,AC 2 Tier,585,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,24
+1683,1006,2023-01-05,Aditya Mehta,AC 2 Tier,731,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,21
+1685,1006,2023-01-23,Vihaan Singh,AC First Class,934,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,32
+1688,1006,2023-01-03,Vivaan Singh,AC 3 Tier,828,Intercity Express,Delhi,Sealdah,"Mon,Thu,Wed,Sun,Sat",100,17
+2,1003,2023-01-05,Aarav Kumar,Sleeper,389,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,89
+8,1003,2023-01-12,Krishna Chopra,Sleeper,1447,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,93
+23,1003,2023-01-25,Arjun Reddy,Sleeper,1426,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,56
+24,1003,2023-01-16,Krishna Das,AC 2 Tier,829,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,71
+43,1003,2023-01-14,Shaurya Singh,AC 3 Tier,588,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,84
+44,1003,2023-01-07,Vivaan Gupta,Sleeper,842,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,79
+55,1003,2023-01-30,Ishaan Das,AC 2 Tier,436,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,45
+63,1003,2023-01-12,Shaurya Reddy,AC 3 Tier,711,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,73
+71,1003,2023-01-31,Reyansh Reddy,AC 2 Tier,565,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,69
+80,1003,2023-01-07,Aditya Chopra,AC First Class,1104,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,71
+94,1003,2023-01-29,Shaurya Reddy,AC 3 Tier,508,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,92
+100,1003,2023-01-14,Shaurya Kumar,AC First Class,888,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,41
+104,1003,2023-01-13,Aarav Reddy,AC First Class,869,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,81
+105,1003,2023-01-25,Krishna Verma,AC First Class,716,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,78
+110,1003,2023-01-06,Shaurya Mehta,AC 3 Tier,837,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,76
+121,1003,2023-01-06,Ishaan Verma,AC 2 Tier,729,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,50
+122,1003,2023-01-09,Ishaan Kumar,Sleeper,1258,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,95
+128,1003,2023-01-09,Aditya Reddy,AC 3 Tier,846,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,95
+135,1003,2023-01-06,Reyansh Reddy,AC First Class,433,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,94
+144,1003,2023-01-23,Shaurya Reddy,Sleeper,678,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,42
+145,1003,2023-01-26,Aditya Gupta,AC First Class,435,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,79
+154,1003,2023-01-14,Arjun Reddy,Sleeper,529,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,97
+155,1003,2023-01-14,Ishaan Das,AC First Class,1326,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,41
+167,1003,2023-01-30,Ishaan Sharma,Sleeper,779,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,95
+170,1003,2023-01-28,Sai Gupta,AC First Class,678,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,59
+181,1003,2023-01-14,Aditya Patel,AC First Class,1359,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,41
+192,1003,2023-01-22,Vivaan Patel,Sleeper,832,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,68
+194,1003,2023-01-11,Aarav Sharma,AC 3 Tier,470,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,73
+196,1003,2023-01-30,Sai Chopra,AC 2 Tier,435,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,45
+205,1003,2023-01-22,Vihaan Mehta,AC 3 Tier,1049,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,62
+208,1003,2023-01-04,Krishna Kumar,AC 2 Tier,324,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,81
+214,1003,2023-01-26,Ishaan Mehta,Sleeper,469,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,81
+216,1003,2023-01-02,Aarav Sharma,Sleeper,330,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,51
+222,1003,2023-01-20,Arjun Sharma,AC 2 Tier,980,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,57
+227,1003,2023-01-31,Vihaan Kumar,Sleeper,386,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,83
+231,1003,2023-01-12,Vivaan Singh,AC 3 Tier,516,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,73
+233,1003,2023-01-04,Krishna Mehta,AC First Class,1348,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,68
+242,1003,2023-01-07,Arjun Kumar,AC 2 Tier,1080,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,72
+245,1003,2023-01-31,Aarav Singh,AC 2 Tier,792,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,69
+246,1003,2023-01-04,Shaurya Chopra,AC First Class,559,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,68
+250,1003,2023-01-04,Vihaan Das,AC 2 Tier,551,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,81
+253,1003,2023-01-24,Ishaan Das,AC 2 Tier,544,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,75
+255,1003,2023-01-24,Arjun Sharma,Sleeper,499,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,44
+256,1003,2023-01-07,Sai Singh,Sleeper,562,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,79
+258,1003,2023-01-05,Aditya Kumar,AC First Class,1105,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,45
+261,1003,2023-01-27,Aditya Chopra,Sleeper,1459,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,60
+267,1003,2023-01-30,Arjun Kumar,AC First Class,892,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,72
+280,1003,2023-01-22,Vivaan Gupta,AC First Class,777,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,92
+286,1003,2023-01-30,Reyansh Gupta,Sleeper,1011,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,95
+292,1003,2023-01-08,Arjun Das,Sleeper,688,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,41
+295,1003,2023-01-14,Aditya Das,AC 3 Tier,1368,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,84
+299,1003,2023-01-26,Krishna Mehta,AC 3 Tier,1486,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,64
+301,1003,2023-01-18,Aarav Verma,AC First Class,1180,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,42
+303,1003,2023-01-07,Sai Kumar,Sleeper,846,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,79
+304,1003,2023-01-17,Krishna Sharma,AC First Class,718,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,66
+310,1003,2023-01-11,Krishna Reddy,AC 2 Tier,805,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,71
+311,1003,2023-01-15,Arjun Kumar,AC 3 Tier,1109,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,79
+312,1003,2023-01-15,Reyansh Patel,AC First Class,762,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,46
+319,1003,2023-01-21,Arjun Gupta,Sleeper,253,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,66
+322,1003,2023-01-23,Shaurya Kumar,Sleeper,477,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,42
+327,1003,2023-01-18,Arjun Reddy,AC First Class,1329,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,42
+335,1003,2023-01-28,Aarav Patel,AC 3 Tier,1500,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,93
+348,1003,2023-01-30,Ishaan Verma,AC 3 Tier,526,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,75
+356,1003,2023-01-27,Reyansh Singh,AC 3 Tier,398,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,49
+361,1003,2023-01-06,Shaurya Gupta,AC 2 Tier,1238,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,50
+363,1003,2023-01-11,Reyansh Verma,AC 2 Tier,1488,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,71
+371,1003,2023-01-22,Aarav Verma,AC 3 Tier,704,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,62
+372,1003,2023-01-18,Aditya Patel,AC 2 Tier,791,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,55
+376,1003,2023-01-02,Reyansh Sharma,AC 2 Tier,1105,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,43
+378,1003,2023-01-30,Vihaan Sharma,AC 3 Tier,423,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,75
+391,1003,2023-01-19,Aarav Chopra,AC First Class,1075,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,75
+398,1003,2023-01-20,Aditya Reddy,AC 3 Tier,1179,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,55
+414,1003,2023-01-15,Sai Mehta,AC First Class,670,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,46
+429,1003,2023-01-03,Aarav Sharma,Sleeper,749,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,79
+432,1003,2023-01-10,Aarav Sharma,AC 3 Tier,440,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,61
+437,1003,2023-01-30,Ishaan Sharma,AC 2 Tier,1047,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,45
+451,1003,2023-01-26,Ishaan Sharma,AC 2 Tier,1031,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,64
+458,1003,2023-01-01,Vivaan Reddy,AC First Class,357,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,68
+459,1003,2023-01-06,Vivaan Verma,AC First Class,1307,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,94
+460,1003,2023-01-13,Vihaan Patel,AC 2 Tier,309,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,50
+467,1003,2023-01-12,Ishaan Patel,Sleeper,831,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,93
+474,1003,2023-01-09,Vivaan Verma,Sleeper,542,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,95
+476,1003,2023-01-09,Vihaan Chopra,AC 3 Tier,1137,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,95
+481,1003,2023-01-10,Vihaan Verma,AC 2 Tier,970,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,94
+482,1003,2023-01-27,Krishna Gupta,Sleeper,1354,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,60
+492,1003,2023-01-13,Aarav Gupta,AC 3 Tier,906,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,84
+497,1003,2023-01-02,Arjun Chopra,AC 2 Tier,423,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,43
+504,1003,2023-01-07,Ishaan Singh,AC 2 Tier,1202,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,72
+511,1003,2023-01-05,Vivaan Gupta,AC First Class,1468,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,45
+516,1003,2023-01-08,Reyansh Das,AC 3 Tier,1136,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,82
+525,1003,2023-01-31,Arjun Das,AC 3 Tier,1042,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,97
+533,1003,2023-01-11,Arjun Chopra,AC First Class,903,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,71
+539,1003,2023-01-24,Sai Patel,Sleeper,394,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,44
+544,1003,2023-01-29,Arjun Sharma,AC First Class,472,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,96
+549,1003,2023-01-26,Ishaan Patel,AC 2 Tier,372,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,64
+552,1003,2023-01-21,Vihaan Reddy,AC First Class,990,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,40
+554,1003,2023-01-05,Vivaan Chopra,AC 2 Tier,1318,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,99
+564,1003,2023-01-17,Arjun Singh,AC 3 Tier,961,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,67
+569,1003,2023-01-25,Vivaan Das,AC 3 Tier,1242,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,81
+571,1003,2023-01-13,Vihaan Sharma,Sleeper,1332,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,86
+574,1003,2023-01-04,Sai Reddy,AC 3 Tier,657,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,76
+576,1003,2023-01-11,Reyansh Reddy,AC First Class,216,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,71
+577,1003,2023-01-07,Vihaan Das,AC 3 Tier,1150,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,54
+578,1003,2023-01-19,Ishaan Reddy,AC 3 Tier,508,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,86
+580,1003,2023-01-21,Vihaan Das,Sleeper,970,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,66
+587,1003,2023-01-15,Vihaan Gupta,Sleeper,615,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,48
+591,1003,2023-01-28,Sai Patel,AC 3 Tier,823,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,93
+603,1003,2023-01-09,Krishna Singh,Sleeper,1457,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,95
+609,1003,2023-01-06,Ishaan Chopra,AC 3 Tier,260,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,76
+610,1003,2023-01-02,Krishna Singh,AC 2 Tier,1396,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,43
+620,1003,2023-01-23,Shaurya Mehta,AC 2 Tier,818,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,54
+621,1003,2023-01-05,Arjun Chopra,AC First Class,849,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,45
+628,1003,2023-01-07,Aarav Verma,AC 2 Tier,725,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,72
+631,1003,2023-01-18,Aditya Singh,AC First Class,1383,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,42
+650,1003,2023-01-03,Aarav Chopra,AC 3 Tier,446,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,87
+658,1003,2023-01-13,Vihaan Chopra,Sleeper,552,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,86
+659,1003,2023-01-13,Shaurya Reddy,Sleeper,1010,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,86
+660,1003,2023-01-23,Arjun Verma,AC First Class,750,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,45
+661,1003,2023-01-01,Aarav Patel,AC 2 Tier,774,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,79
+671,1003,2023-01-16,Sai Das,AC 3 Tier,1171,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,46
+677,1003,2023-01-20,Aarav Das,AC First Class,971,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,75
+678,1003,2023-01-15,Vihaan Das,AC First Class,818,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,46
+691,1003,2023-01-15,Vivaan Sharma,Sleeper,1499,Shatabdi Express,Howrah,Chennai,"Sat,Tue,Wed,Mon,Thu",100,48
+1010,1002,2023-01-27,Vivaan Kumar,AC First Class,748,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,23
+1013,1002,2023-01-24,Vihaan Kumar,AC 2 Tier,1397,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,4
+1015,1002,2023-01-17,Shaurya Verma,Sleeper,424,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,42
+1016,1002,2023-01-21,Sai Reddy,Sleeper,988,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,47
+1024,1002,2023-01-02,Aditya Chopra,Sleeper,1195,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,46
+1029,1002,2023-01-03,Ishaan Chopra,AC 3 Tier,1405,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,24
+1030,1002,2023-01-01,Vivaan Gupta,AC 3 Tier,338,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,47
+1041,1002,2023-01-13,Aarav Gupta,AC 2 Tier,1131,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,6
+1048,1002,2023-01-22,Reyansh Mehta,AC 2 Tier,1010,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,21
+1049,1002,2023-01-22,Sai Chopra,AC 2 Tier,348,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,21
+1051,1002,2023-01-17,Krishna Verma,AC 2 Tier,340,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,50
+1052,1002,2023-01-12,Ishaan Sharma,AC First Class,1312,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,19
+1066,1002,2023-01-26,Vihaan Kumar,Sleeper,1163,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,45
+1067,1002,2023-01-07,Vivaan Singh,AC 2 Tier,666,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,46
+1068,1002,2023-01-01,Sai Das,AC 2 Tier,770,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,9
+1082,1002,2023-01-22,Aarav Mehta,AC 3 Tier,501,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,31
+1086,1002,2023-01-06,Aarav Mehta,Sleeper,1341,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,48
+1087,1002,2023-01-30,Sai Reddy,AC 3 Tier,1151,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,42
+1094,1002,2023-01-13,Aarav Das,Sleeper,1049,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,15
+1096,1002,2023-01-27,Reyansh Patel,Sleeper,1379,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,40
+1106,1002,2023-01-21,Aarav Kumar,Sleeper,706,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,47
+1107,1002,2023-01-27,Arjun Chopra,AC 3 Tier,458,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,5
+1122,1002,2023-01-03,Aditya Sharma,AC First Class,1337,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,31
+1123,1002,2023-01-23,Krishna Kumar,AC First Class,235,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,50
+1130,1002,2023-01-10,Vihaan Mehta,AC 3 Tier,819,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,28
+1136,1002,2023-01-26,Ishaan Sharma,Sleeper,708,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,45
+1140,1002,2023-01-09,Aditya Sharma,AC 3 Tier,555,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,11
+1150,1002,2023-01-31,Aarav Das,AC 2 Tier,1380,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,47
+1152,1002,2023-01-19,Aarav Reddy,Sleeper,1162,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,29
+1164,1002,2023-01-15,Reyansh Gupta,AC First Class,590,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,50
+1183,1002,2023-01-08,Vihaan Gupta,AC First Class,722,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,6
+1202,1002,2023-01-02,Sai Verma,AC First Class,437,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,35
+1210,1002,2023-01-05,Krishna Patel,Sleeper,1335,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,22
+1211,1002,2023-01-19,Arjun Das,AC 2 Tier,502,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,38
+1224,1002,2023-01-14,Krishna Mehta,AC First Class,1051,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,9
+1234,1002,2023-01-09,Shaurya Kumar,AC 2 Tier,212,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,12
+1235,1002,2023-01-28,Krishna Chopra,Sleeper,490,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,40
+1239,1002,2023-01-25,Vihaan Mehta,Sleeper,757,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,39
+1243,1002,2023-01-13,Vivaan Verma,Sleeper,618,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,15
+1246,1002,2023-01-13,Aditya Patel,AC 2 Tier,347,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,6
+1251,1002,2023-01-14,Vivaan Chopra,Sleeper,1010,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,34
+1263,1002,2023-01-31,Reyansh Singh,Sleeper,903,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,2
+1269,1002,2023-01-11,Aarav Chopra,AC 2 Tier,835,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,42
+1273,1002,2023-01-11,Aarav Sharma,AC 3 Tier,481,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,44
+1274,1002,2023-01-03,Ishaan Gupta,Sleeper,889,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,29
+1276,1002,2023-01-27,Arjun Sharma,AC First Class,289,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,23
+1278,1002,2023-01-18,Arjun Kumar,AC First Class,597,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,16
+1284,1002,2023-01-27,Reyansh Verma,AC 3 Tier,1123,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,5
+1287,1002,2023-01-01,Aarav Das,AC 2 Tier,499,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,9
+1288,1002,2023-01-02,Vihaan Gupta,AC 3 Tier,1160,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,7
+1290,1002,2023-01-27,Shaurya Patel,AC First Class,427,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,23
+1315,1002,2023-01-25,Aarav Mehta,AC First Class,1361,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,34
+1324,1002,2023-01-23,Sai Sharma,AC 3 Tier,448,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,43
+1325,1002,2023-01-26,Vivaan Verma,AC First Class,253,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,2
+1327,1002,2023-01-20,Vihaan Das,AC 2 Tier,1015,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,3
+1333,1002,2023-01-06,Aarav Mehta,AC 2 Tier,1262,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,47
+1350,1002,2023-01-19,Shaurya Verma,Sleeper,776,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,29
+1357,1002,2023-01-20,Sai Mehta,Sleeper,292,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,2
+1385,1002,2023-01-30,Krishna Singh,Sleeper,811,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,45
+1392,1002,2023-01-16,Aarav Kumar,Sleeper,734,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,50
+1396,1002,2023-01-13,Shaurya Patel,Sleeper,804,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,15
+1398,1002,2023-01-15,Vivaan Patel,AC First Class,1324,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,50
+1411,1002,2023-01-21,Vivaan Singh,AC 3 Tier,1300,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,44
+1414,1002,2023-01-15,Vihaan Kumar,AC 2 Tier,586,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,18
+1419,1002,2023-01-17,Reyansh Chopra,AC 2 Tier,1382,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,50
+1427,1002,2023-01-09,Ishaan Kumar,Sleeper,1121,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,7
+1433,1002,2023-01-18,Sai Kumar,AC First Class,1154,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,16
+1439,1002,2023-01-11,Sai Sharma,AC 3 Tier,1222,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,44
+1444,1002,2023-01-03,Shaurya Kumar,AC 3 Tier,1235,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,24
+1468,1002,2023-01-14,Arjun Verma,AC First Class,411,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,9
+1482,1002,2023-01-19,Ishaan Gupta,Sleeper,1145,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,29
+1488,1002,2023-01-22,Ishaan Sharma,Sleeper,1353,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,16
+1498,1002,2023-01-11,Aditya Das,AC First Class,674,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,34
+1507,1002,2023-01-10,Ishaan Mehta,AC 2 Tier,489,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,4
+1509,1002,2023-01-16,Ishaan Mehta,AC 3 Tier,1202,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,44
+1512,1002,2023-01-27,Shaurya Das,AC First Class,1037,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,23
+1536,1002,2023-01-28,Sai Kumar,AC 2 Tier,712,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,8
+1540,1002,2023-01-17,Reyansh Verma,Sleeper,903,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,42
+1542,1002,2023-01-13,Aditya Chopra,Sleeper,841,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,15
+1549,1002,2023-01-18,Aarav Reddy,Sleeper,817,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,25
+1550,1002,2023-01-17,Vivaan Chopra,AC 3 Tier,1002,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,19
+1564,1002,2023-01-24,Aditya Reddy,Sleeper,886,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,30
+1581,1002,2023-01-14,Vivaan Singh,AC 3 Tier,773,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,46
+1585,1002,2023-01-10,Vivaan Chopra,AC First Class,868,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,9
+1587,1002,2023-01-25,Ishaan Mehta,AC 3 Tier,416,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,8
+1588,1002,2023-01-15,Aditya Das,AC First Class,447,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,50
+1592,1002,2023-01-03,Vihaan Patel,AC First Class,1251,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,31
+1596,1002,2023-01-05,Sai Mehta,AC 2 Tier,1490,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,13
+1605,1002,2023-01-14,Arjun Mehta,AC 3 Tier,1491,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,46
+1610,1002,2023-01-06,Reyansh Kumar,AC 3 Tier,745,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,49
+1612,1002,2023-01-06,Ishaan Sharma,AC 2 Tier,1411,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,47
+1621,1002,2023-01-23,Reyansh Kumar,AC 3 Tier,1406,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,43
+1622,1002,2023-01-13,Vihaan Verma,AC 3 Tier,563,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,14
+1625,1002,2023-01-11,Ishaan Sharma,AC 2 Tier,854,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,42
+1626,1002,2023-01-21,Aarav Reddy,AC First Class,223,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,0
+1638,1002,2023-01-04,Reyansh Gupta,AC First Class,514,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,43
+1652,1002,2023-01-27,Arjun Chopra,AC 2 Tier,337,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,37
+1665,1002,2023-01-03,Sai Chopra,AC First Class,477,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,31
+1667,1002,2023-01-27,Aarav Verma,Sleeper,1134,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,40
+1682,1002,2023-01-17,Aarav Chopra,AC First Class,854,Rajdhani Express,Howrah,Mumbai,"Fri,Wed,Sun,Thu,Tue",100,48
+3,1004,2023-01-04,Shaurya Kumar,AC 2 Tier,288,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,85
+10,1004,2023-01-09,Aditya Sharma,AC 2 Tier,314,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,42
+13,1004,2023-01-29,Vivaan Sharma,AC 2 Tier,485,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,75
+15,1004,2023-01-29,Vivaan Chopra,AC 2 Tier,649,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,75
+18,1004,2023-01-20,Aditya Mehta,AC 2 Tier,1333,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,82
+29,1004,2023-01-29,Reyansh Reddy,Sleeper,707,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,54
+36,1004,2023-01-28,Vivaan Kumar,Sleeper,1024,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,82
+39,1004,2023-01-08,Ishaan Verma,Sleeper,303,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,92
+41,1004,2023-01-16,Ishaan Verma,AC First Class,320,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,46
+47,1004,2023-01-04,Vihaan Gupta,Sleeper,1468,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,69
+58,1004,2023-01-09,Aarav Sharma,AC First Class,766,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,51
+73,1004,2023-01-12,Arjun Gupta,Sleeper,988,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,94
+81,1004,2023-01-22,Vihaan Chopra,AC First Class,547,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,60
+85,1004,2023-01-29,Krishna Chopra,AC First Class,1212,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,84
+86,1004,2023-01-08,Aarav Kumar,Sleeper,1070,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,92
+93,1004,2023-01-03,Arjun Verma,AC 2 Tier,887,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,52
+96,1004,2023-01-11,Sai Mehta,AC First Class,327,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,77
+98,1004,2023-01-16,Vivaan Gupta,AC 2 Tier,998,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,89
+99,1004,2023-01-18,Krishna Kumar,AC First Class,649,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,82
+109,1004,2023-01-22,Krishna Reddy,AC First Class,724,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,60
+114,1004,2023-01-22,Sai Chopra,AC 2 Tier,225,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,72
+115,1004,2023-01-27,Aditya Patel,AC First Class,941,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,78
+118,1004,2023-01-27,Arjun Singh,AC 2 Tier,702,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,87
+139,1004,2023-01-10,Krishna Chopra,AC 2 Tier,1364,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,99
+148,1004,2023-01-23,Sai Verma,AC 2 Tier,1224,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,48
+158,1004,2023-01-14,Reyansh Verma,AC 2 Tier,1475,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,77
+159,1004,2023-01-21,Vivaan Verma,AC 3 Tier,746,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,46
+171,1004,2023-01-02,Vivaan Kumar,AC First Class,990,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,77
+177,1004,2023-01-31,Ishaan Verma,Sleeper,1464,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,61
+186,1004,2023-01-31,Vihaan Verma,AC First Class,712,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,55
+187,1004,2023-01-28,Reyansh Singh,AC First Class,1189,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,98
+193,1004,2023-01-02,Sai Reddy,AC 3 Tier,384,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,93
+197,1004,2023-01-31,Arjun Reddy,AC 3 Tier,1013,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,69
+200,1004,2023-01-27,Ishaan Mehta,AC 3 Tier,1165,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,99
+209,1004,2023-01-09,Ishaan Sharma,AC First Class,387,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,51
+217,1004,2023-01-15,Ishaan Sharma,Sleeper,1125,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,75
+220,1004,2023-01-22,Krishna Reddy,AC First Class,350,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,60
+230,1004,2023-01-12,Krishna Verma,AC 2 Tier,1429,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,93
+238,1004,2023-01-15,Ishaan Mehta,AC 2 Tier,838,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,47
+241,1004,2023-01-22,Shaurya Kumar,AC First Class,1048,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,60
+248,1004,2023-01-28,Sai Das,Sleeper,1141,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,82
+278,1004,2023-01-12,Reyansh Kumar,AC 2 Tier,1119,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,93
+281,1004,2023-01-17,Aditya Sharma,AC 3 Tier,608,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,85
+290,1004,2023-01-20,Ishaan Verma,Sleeper,724,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,85
+293,1004,2023-01-21,Ishaan Singh,Sleeper,427,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,82
+294,1004,2023-01-20,Shaurya Kumar,AC 3 Tier,494,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,66
+296,1004,2023-01-06,Arjun Singh,AC 2 Tier,338,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,46
+298,1004,2023-01-02,Reyansh Patel,AC 2 Tier,233,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,90
+307,1004,2023-01-24,Ishaan Sharma,AC 2 Tier,582,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,71
+308,1004,2023-01-23,Reyansh Kumar,AC 2 Tier,369,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,48
+318,1004,2023-01-25,Shaurya Singh,AC 2 Tier,1015,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,40
+331,1004,2023-01-22,Krishna Mehta,AC 3 Tier,1329,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,56
+340,1004,2023-01-20,Ishaan Mehta,AC 2 Tier,818,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,82
+341,1004,2023-01-08,Aditya Chopra,AC First Class,349,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,98
+343,1004,2023-01-07,Ishaan Gupta,AC 2 Tier,853,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,88
+349,1004,2023-01-17,Krishna Sharma,AC 2 Tier,1218,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,97
+352,1004,2023-01-20,Arjun Patel,Sleeper,420,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,85
+353,1004,2023-01-05,Krishna Patel,AC First Class,949,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,72
+357,1004,2023-01-12,Sai Sharma,AC 2 Tier,495,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,93
+367,1004,2023-01-11,Vihaan Gupta,AC First Class,617,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,77
+368,1004,2023-01-17,Reyansh Patel,Sleeper,482,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,79
+370,1004,2023-01-11,Krishna Singh,AC 2 Tier,1318,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,80
+383,1004,2023-01-21,Aditya Das,AC 2 Tier,784,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,77
+385,1004,2023-01-29,Reyansh Patel,AC First Class,1214,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,84
+389,1004,2023-01-09,Krishna Patel,AC 2 Tier,532,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,42
+394,1004,2023-01-08,Krishna Sharma,AC 2 Tier,818,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,66
+400,1004,2023-01-25,Ishaan Sharma,AC 3 Tier,1420,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,52
+405,1004,2023-01-26,Ishaan Chopra,AC 3 Tier,1251,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,47
+406,1004,2023-01-15,Shaurya Gupta,AC First Class,831,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,48
+410,1004,2023-01-06,Ishaan Kumar,AC 2 Tier,983,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,46
+411,1004,2023-01-28,Aarav Singh,Sleeper,1304,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,82
+413,1004,2023-01-17,Arjun Das,Sleeper,246,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,79
+419,1004,2023-01-15,Ishaan Sharma,AC 3 Tier,315,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,48
+424,1004,2023-01-02,Ishaan Gupta,AC 2 Tier,1052,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,90
+425,1004,2023-01-05,Aditya Reddy,AC 3 Tier,1301,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,58
+426,1004,2023-01-08,Ishaan Mehta,AC 3 Tier,1148,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,63
+430,1004,2023-01-22,Aarav Reddy,Sleeper,585,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,63
+442,1004,2023-01-06,Aditya Gupta,AC 3 Tier,1319,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,75
+443,1004,2023-01-06,Ishaan Patel,Sleeper,352,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,61
+446,1004,2023-01-12,Reyansh Gupta,AC First Class,232,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,51
+452,1004,2023-01-19,Krishna Kumar,AC 2 Tier,365,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,69
+454,1004,2023-01-18,Reyansh Kumar,Sleeper,550,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,78
+468,1004,2023-01-12,Aarav Gupta,AC 3 Tier,378,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,97
+472,1004,2023-01-13,Shaurya Kumar,AC 3 Tier,1371,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,50
+475,1004,2023-01-09,Arjun Singh,AC First Class,357,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,51
+495,1004,2023-01-26,Ishaan Kumar,AC First Class,913,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,66
+496,1004,2023-01-04,Vivaan Kumar,AC 2 Tier,337,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,85
+500,1004,2023-01-21,Krishna Gupta,AC First Class,1010,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,96
+502,1004,2023-01-13,Vivaan Singh,AC 3 Tier,770,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,50
+530,1004,2023-01-31,Vivaan Patel,Sleeper,390,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,61
+532,1004,2023-01-27,Reyansh Das,AC 2 Tier,861,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,87
+535,1004,2023-01-01,Ishaan Chopra,AC First Class,1134,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,93
+557,1004,2023-01-17,Arjun Chopra,AC First Class,1067,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,64
+562,1004,2023-01-04,Arjun Mehta,AC 2 Tier,559,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,85
+566,1004,2023-01-09,Vivaan Chopra,AC 2 Tier,1380,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,42
+568,1004,2023-01-28,Reyansh Chopra,AC 2 Tier,522,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,43
+573,1004,2023-01-30,Vivaan Patel,Sleeper,1370,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,40
+584,1004,2023-01-24,Aditya Patel,AC 3 Tier,1007,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,52
+595,1004,2023-01-28,Reyansh Gupta,AC 3 Tier,393,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,94
+596,1004,2023-01-04,Shaurya Kumar,Sleeper,326,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,69
+601,1004,2023-01-27,Vivaan Singh,Sleeper,983,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,88
+617,1004,2023-01-01,Shaurya Mehta,AC 3 Tier,897,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,62
+636,1004,2023-01-31,Aarav Chopra,AC 3 Tier,309,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,69
+645,1004,2023-01-12,Ishaan Patel,Sleeper,739,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,94
+646,1004,2023-01-15,Arjun Chopra,AC 2 Tier,1355,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,47
+648,1004,2023-01-25,Reyansh Mehta,Sleeper,992,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,47
+651,1004,2023-01-06,Ishaan Singh,AC 3 Tier,458,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,75
+656,1004,2023-01-05,Vivaan Das,Sleeper,1352,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,100
+662,1004,2023-01-28,Aarav Gupta,AC 3 Tier,815,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,94
+670,1004,2023-01-17,Sai Reddy,Sleeper,695,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,79
+676,1004,2023-01-30,Aarav Patel,Sleeper,658,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,40
+685,1004,2023-01-13,Krishna Kumar,AC 3 Tier,902,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,50
+690,1004,2023-01-26,Reyansh Gupta,AC 2 Tier,1399,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,73
+695,1004,2023-01-19,Arjun Kumar,AC 2 Tier,569,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,69
+700,1004,2023-01-01,Vihaan Gupta,AC 3 Tier,964,Garib Rath,Kolkata,Ahmedabad,"Fri,Mon,Sat,Tue,Wed",100,62
+11,1002,2023-01-27,Ishaan Chopra,AC First Class,748,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,77
+14,1002,2023-01-24,Shaurya Sharma,AC 2 Tier,1397,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,96
+16,1002,2023-01-17,Vivaan Verma,Sleeper,424,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,42
+17,1002,2023-01-21,Sai Verma,Sleeper,988,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,53
+25,1002,2023-01-02,Krishna Mehta,Sleeper,1195,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,46
+30,1002,2023-01-03,Reyansh Patel,AC 3 Tier,1405,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,76
+31,1002,2023-01-01,Ishaan Verma,AC 3 Tier,338,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,47
+42,1002,2023-01-13,Krishna Chopra,AC 2 Tier,1131,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,94
+49,1002,2023-01-22,Arjun Kumar,AC 2 Tier,1010,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,79
+50,1002,2023-01-22,Shaurya Singh,AC 2 Tier,348,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,79
+52,1002,2023-01-17,Shaurya Mehta,AC 2 Tier,340,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,50
+53,1002,2023-01-12,Aarav Das,AC First Class,1312,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,81
+67,1002,2023-01-26,Ishaan Chopra,Sleeper,1163,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,55
+68,1002,2023-01-07,Ishaan Reddy,AC 2 Tier,666,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,46
+69,1002,2023-01-01,Aarav Verma,AC 2 Tier,770,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,91
+83,1002,2023-01-22,Ishaan Mehta,AC 3 Tier,501,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,69
+87,1002,2023-01-06,Arjun Verma,Sleeper,1341,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,52
+88,1002,2023-01-30,Arjun Chopra,AC 3 Tier,1151,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,58
+95,1002,2023-01-13,Aarav Chopra,Sleeper,1049,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,85
+97,1002,2023-01-27,Ishaan Mehta,Sleeper,1379,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,40
+107,1002,2023-01-21,Arjun Mehta,Sleeper,706,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,53
+108,1002,2023-01-27,Reyansh Gupta,AC 3 Tier,458,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,95
+123,1002,2023-01-03,Sai Chopra,AC First Class,1337,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,69
+124,1002,2023-01-23,Sai Chopra,AC First Class,235,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,50
+131,1002,2023-01-10,Vivaan Verma,AC 3 Tier,819,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,72
+137,1002,2023-01-26,Reyansh Gupta,Sleeper,708,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,55
+141,1002,2023-01-09,Shaurya Das,AC 3 Tier,555,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,89
+151,1002,2023-01-31,Reyansh Kumar,AC 2 Tier,1380,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,47
+153,1002,2023-01-19,Vivaan Gupta,Sleeper,1162,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,71
+165,1002,2023-01-15,Vivaan Mehta,AC First Class,590,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,50
+184,1002,2023-01-08,Reyansh Mehta,AC First Class,722,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,94
+203,1002,2023-01-02,Aarav Gupta,AC First Class,437,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,65
+211,1002,2023-01-05,Krishna Das,Sleeper,1335,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,78
+212,1002,2023-01-19,Ishaan Singh,AC 2 Tier,502,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,62
+225,1002,2023-01-14,Aditya Mehta,AC First Class,1051,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,91
+235,1002,2023-01-09,Aditya Gupta,AC 2 Tier,212,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,88
+236,1002,2023-01-28,Ishaan Verma,Sleeper,490,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,40
+240,1002,2023-01-25,Aarav Chopra,Sleeper,757,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,61
+244,1002,2023-01-13,Vihaan Sharma,Sleeper,618,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,85
+247,1002,2023-01-13,Ishaan Sharma,AC 2 Tier,347,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,94
+252,1002,2023-01-14,Reyansh Sharma,Sleeper,1010,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,66
+264,1002,2023-01-31,Sai Reddy,Sleeper,903,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,98
+270,1002,2023-01-11,Aarav Patel,AC 2 Tier,835,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,42
+274,1002,2023-01-11,Aditya Reddy,AC 3 Tier,481,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,44
+275,1002,2023-01-03,Krishna Mehta,Sleeper,889,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,71
+277,1002,2023-01-27,Vihaan Mehta,AC First Class,289,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,77
+279,1002,2023-01-18,Vivaan Patel,AC First Class,597,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,84
+285,1002,2023-01-27,Aarav Gupta,AC 3 Tier,1123,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,95
+288,1002,2023-01-01,Sai Reddy,AC 2 Tier,499,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,91
+289,1002,2023-01-02,Aditya Gupta,AC 3 Tier,1160,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,93
+291,1002,2023-01-27,Vihaan Chopra,AC First Class,427,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,77
+316,1002,2023-01-25,Aditya Reddy,AC First Class,1361,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,66
+325,1002,2023-01-23,Aditya Mehta,AC 3 Tier,448,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,43
+326,1002,2023-01-26,Krishna Das,AC First Class,253,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,98
+328,1002,2023-01-20,Sai Singh,AC 2 Tier,1015,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,97
+334,1002,2023-01-06,Vihaan Reddy,AC 2 Tier,1262,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,47
+351,1002,2023-01-19,Krishna Reddy,Sleeper,776,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,71
+358,1002,2023-01-20,Arjun Kumar,Sleeper,292,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,98
+386,1002,2023-01-30,Krishna Kumar,Sleeper,811,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,45
+393,1002,2023-01-16,Vivaan Chopra,Sleeper,734,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,50
+397,1002,2023-01-13,Ishaan Patel,Sleeper,804,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,85
+399,1002,2023-01-15,Arjun Sharma,AC First Class,1324,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,50
+412,1002,2023-01-21,Shaurya Das,AC 3 Tier,1300,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,56
+415,1002,2023-01-15,Reyansh Singh,AC 2 Tier,586,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,82
+420,1002,2023-01-17,Shaurya Sharma,AC 2 Tier,1382,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,50
+428,1002,2023-01-09,Vihaan Mehta,Sleeper,1121,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,93
+434,1002,2023-01-18,Aarav Mehta,AC First Class,1154,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,84
+440,1002,2023-01-11,Ishaan Chopra,AC 3 Tier,1222,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,44
+445,1002,2023-01-03,Vivaan Singh,AC 3 Tier,1235,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,76
+469,1002,2023-01-14,Shaurya Chopra,AC First Class,411,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,91
+483,1002,2023-01-19,Reyansh Das,Sleeper,1145,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,71
+489,1002,2023-01-22,Krishna Patel,Sleeper,1353,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,84
+499,1002,2023-01-11,Arjun Patel,AC First Class,674,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,66
+508,1002,2023-01-10,Vivaan Sharma,AC 2 Tier,489,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,96
+510,1002,2023-01-16,Aditya Gupta,AC 3 Tier,1202,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,56
+513,1002,2023-01-27,Aarav Chopra,AC First Class,1037,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,77
+537,1002,2023-01-28,Ishaan Chopra,AC 2 Tier,712,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,92
+541,1002,2023-01-17,Arjun Chopra,Sleeper,903,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,42
+543,1002,2023-01-13,Arjun Chopra,Sleeper,841,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,85
+550,1002,2023-01-18,Krishna Sharma,Sleeper,817,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,75
+551,1002,2023-01-17,Sai Patel,AC 3 Tier,1002,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,81
+565,1002,2023-01-24,Krishna Reddy,Sleeper,886,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,70
+582,1002,2023-01-14,Arjun Patel,AC 3 Tier,773,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,46
+586,1002,2023-01-10,Aarav Chopra,AC First Class,868,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,91
+588,1002,2023-01-25,Vihaan Chopra,AC 3 Tier,416,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,92
+589,1002,2023-01-15,Vihaan Kumar,AC First Class,447,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,50
+593,1002,2023-01-03,Vivaan Verma,AC First Class,1251,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,69
+597,1002,2023-01-05,Ishaan Kumar,AC 2 Tier,1490,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,87
+606,1002,2023-01-14,Vihaan Kumar,AC 3 Tier,1491,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,46
+611,1002,2023-01-06,Ishaan Patel,AC 3 Tier,745,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,49
+613,1002,2023-01-06,Reyansh Singh,AC 2 Tier,1411,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,47
+622,1002,2023-01-23,Shaurya Gupta,AC 3 Tier,1406,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,43
+623,1002,2023-01-13,Aarav Chopra,AC 3 Tier,563,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,86
+626,1002,2023-01-11,Aditya Sharma,AC 2 Tier,854,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,42
+627,1002,2023-01-21,Vivaan Das,AC First Class,223,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,100
+639,1002,2023-01-04,Arjun Verma,AC First Class,514,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,57
+653,1002,2023-01-27,Aditya Verma,AC 2 Tier,337,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,63
+666,1002,2023-01-03,Reyansh Sharma,AC First Class,477,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,69
+668,1002,2023-01-27,Sai Gupta,Sleeper,1134,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,40
+683,1002,2023-01-17,Reyansh Sharma,AC First Class,854,Rajdhani Express,Mumbai,Howrah,"Fri,Wed,Sun,Thu,Tue",100,48
+1005,1001,2023-01-22,Vihaan Sharma,Sleeper,676,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,36
+1006,1001,2023-01-13,Krishna Mehta,AC 2 Tier,533,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,44
+1011,1001,2023-01-07,Aditya Sharma,AC 3 Tier,1222,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,39
+1018,1001,2023-01-22,Arjun Kumar,AC 2 Tier,896,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,19
+1019,1001,2023-01-10,Shaurya Sharma,AC First Class,206,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,40
+1021,1001,2023-01-28,Vihaan Reddy,AC 3 Tier,513,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,48
+1025,1001,2023-01-25,Sai Verma,AC 3 Tier,1173,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,46
+1031,1001,2023-01-28,Aditya Das,AC 3 Tier,770,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,48
+1034,1001,2023-01-04,Vivaan Verma,AC First Class,1041,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,16
+1044,1001,2023-01-02,Reyansh Mehta,AC 3 Tier,316,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,31
+1047,1001,2023-01-14,Aarav Singh,AC 2 Tier,734,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,11
+1050,1001,2023-01-15,Vivaan Gupta,Sleeper,1301,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,46
+1055,1001,2023-01-24,Ishaan Das,AC 2 Tier,777,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,41
+1058,1001,2023-01-01,Shaurya Kumar,AC 2 Tier,530,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,23
+1060,1001,2023-01-31,Shaurya Chopra,Sleeper,956,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,0
+1065,1001,2023-01-06,Vihaan Reddy,AC 3 Tier,746,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,27
+1069,1001,2023-01-31,Arjun Patel,AC First Class,1298,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,47
+1075,1001,2023-01-31,Aarav Reddy,Sleeper,815,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,0
+1083,1001,2023-01-02,Vivaan Kumar,Sleeper,1132,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,40
+1105,1001,2023-01-16,Shaurya Mehta,Sleeper,916,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,16
+1110,1001,2023-01-19,Reyansh Sharma,AC First Class,1012,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,22
+1118,1001,2023-01-09,Vihaan Mehta,AC First Class,1367,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,20
+1124,1001,2023-01-10,Vihaan Das,AC 3 Tier,827,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,17
+1128,1001,2023-01-24,Shaurya Sharma,AC 3 Tier,643,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,41
+1131,1001,2023-01-23,Ishaan Mehta,AC 2 Tier,293,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,7
+1132,1001,2023-01-18,Aarav Singh,AC First Class,410,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,21
+1133,1001,2023-01-19,Vihaan Sharma,AC First Class,1102,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,22
+1135,1001,2023-01-13,Vihaan Reddy,Sleeper,510,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,14
+1137,1001,2023-01-18,Shaurya Mehta,AC First Class,1122,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,21
+1146,1001,2023-01-06,Reyansh Mehta,AC First Class,454,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,47
+1151,1001,2023-01-25,Aarav Reddy,AC First Class,769,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,46
+1155,1001,2023-01-15,Vihaan Sharma,AC 2 Tier,862,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,26
+1156,1001,2023-01-25,Arjun Chopra,Sleeper,1311,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,41
+1160,1001,2023-01-21,Aarav Reddy,AC 3 Tier,836,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,2
+1162,1001,2023-01-15,Reyansh Verma,AC First Class,797,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,18
+1173,1001,2023-01-17,Ishaan Verma,AC 3 Tier,1039,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,48
+1177,1001,2023-01-08,Shaurya Das,Sleeper,1088,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,48
+1178,1001,2023-01-25,Vivaan Mehta,AC 3 Tier,813,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,46
+1179,1001,2023-01-02,Ishaan Mehta,AC 2 Tier,934,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,28
+1187,1001,2023-01-08,Ishaan Chopra,AC 2 Tier,804,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,10
+1188,1001,2023-01-27,Sai Kumar,Sleeper,1359,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,44
+1200,1001,2023-01-20,Shaurya Mehta,AC 3 Tier,329,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,2
+1203,1001,2023-01-08,Krishna Chopra,AC First Class,1129,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,17
+1214,1001,2023-01-12,Arjun Sharma,Sleeper,556,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,20
+1220,1001,2023-01-11,Aditya Reddy,Sleeper,458,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,40
+1227,1001,2023-01-03,Sai Verma,AC 2 Tier,466,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,50
+1242,1001,2023-01-10,Krishna Singh,AC 2 Tier,293,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,36
+1248,1001,2023-01-28,Shaurya Sharma,AC First Class,1055,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,21
+1253,1001,2023-01-17,Vihaan Sharma,AC 3 Tier,915,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,48
+1259,1001,2023-01-10,Shaurya Kumar,Sleeper,316,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,17
+1268,1001,2023-01-18,Arjun Chopra,AC 2 Tier,1434,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,22
+1283,1001,2023-01-25,Vihaan Reddy,AC First Class,1251,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,46
+1299,1001,2023-01-25,Aditya Sharma,AC 3 Tier,290,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,46
+1304,1001,2023-01-25,Aarav Mehta,AC 2 Tier,297,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,43
+1316,1001,2023-01-20,Vihaan Mehta,AC 2 Tier,961,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,18
+1320,1001,2023-01-09,Arjun Chopra,AC 3 Tier,1453,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,4
+1322,1001,2023-01-15,Sai Das,Sleeper,854,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,46
+1332,1001,2023-01-27,Aditya Chopra,AC 3 Tier,822,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,14
+1338,1001,2023-01-02,Arjun Patel,AC 3 Tier,1371,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,31
+1345,1001,2023-01-09,Vivaan Chopra,AC 3 Tier,398,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,4
+1346,1001,2023-01-10,Reyansh Das,AC 3 Tier,527,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,17
+1349,1001,2023-01-03,Arjun Sharma,AC First Class,693,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,30
+1353,1001,2023-01-13,Vihaan Reddy,AC 3 Tier,942,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,3
+1358,1001,2023-01-05,Aarav Reddy,AC First Class,505,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,49
+1363,1001,2023-01-20,Ishaan Chopra,AC 3 Tier,305,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,2
+1380,1001,2023-01-14,Sai Reddy,Sleeper,481,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,45
+1381,1001,2023-01-31,Sai Sharma,AC First Class,1174,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,47
+1400,1001,2023-01-17,Shaurya Reddy,AC 2 Tier,359,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,43
+1416,1001,2023-01-08,Sai Gupta,Sleeper,1416,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,48
+1417,1001,2023-01-15,Krishna Verma,AC 3 Tier,290,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,38
+1422,1001,2023-01-18,Shaurya Mehta,AC First Class,1338,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,21
+1426,1001,2023-01-18,Vihaan Verma,AC 3 Tier,995,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,50
+1437,1001,2023-01-19,Vihaan Verma,Sleeper,734,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,41
+1446,1001,2023-01-18,Vivaan Kumar,Sleeper,234,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,38
+1454,1001,2023-01-16,Sai Patel,Sleeper,1281,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,16
+1455,1001,2023-01-08,Vihaan Das,AC 2 Tier,295,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,10
+1456,1001,2023-01-22,Ishaan Patel,Sleeper,567,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,36
+1460,1001,2023-01-14,Vivaan Chopra,AC 2 Tier,1439,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,11
+1465,1001,2023-01-09,Shaurya Singh,AC 3 Tier,997,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,4
+1469,1001,2023-01-03,Vivaan Reddy,Sleeper,1422,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,3
+1476,1001,2023-01-05,Krishna Das,AC First Class,880,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,49
+1487,1001,2023-01-26,Ishaan Das,Sleeper,423,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,50
+1490,1001,2023-01-04,Krishna Verma,AC 3 Tier,1112,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,27
+1492,1001,2023-01-16,Vihaan Das,AC First Class,375,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,27
+1493,1001,2023-01-27,Vihaan Patel,AC 2 Tier,902,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,47
+1500,1001,2023-01-24,Arjun Patel,AC First Class,1412,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,3
+1505,1001,2023-01-12,Krishna Verma,AC 3 Tier,809,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,39
+1511,1001,2023-01-28,Vihaan Chopra,AC First Class,479,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,21
+1514,1001,2023-01-19,Aarav Mehta,AC 2 Tier,266,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,43
+1517,1001,2023-01-09,Vivaan Singh,Sleeper,1103,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,41
+1519,1001,2023-01-15,Sai Patel,Sleeper,1099,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,46
+1520,1001,2023-01-25,Krishna Sharma,AC 2 Tier,1449,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,43
+1522,1001,2023-01-19,Aditya Singh,AC 2 Tier,1422,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,43
+1525,1001,2023-01-09,Krishna Kumar,AC 3 Tier,499,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,4
+1528,1001,2023-01-21,Aarav Mehta,AC 2 Tier,955,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,46
+1535,1001,2023-01-31,Reyansh Reddy,AC 3 Tier,818,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,41
+1537,1001,2023-01-12,Vivaan Mehta,AC First Class,1481,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,34
+1539,1001,2023-01-07,Aditya Patel,AC 3 Tier,1415,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,39
+1541,1001,2023-01-28,Sai Mehta,AC First Class,345,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,21
+1547,1001,2023-01-05,Vivaan Gupta,AC 2 Tier,1079,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,37
+1552,1001,2023-01-08,Aarav Das,Sleeper,939,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,48
+1555,1001,2023-01-01,Sai Mehta,Sleeper,323,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,0
+1558,1001,2023-01-10,Ishaan Das,AC 3 Tier,518,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,17
+1562,1001,2023-01-01,Ishaan Gupta,AC 3 Tier,1216,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,42
+1569,1001,2023-01-02,Ishaan Sharma,Sleeper,1166,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,40
+1578,1001,2023-01-30,Vihaan Gupta,AC 3 Tier,1309,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,14
+1582,1001,2023-01-02,Aarav Patel,AC First Class,962,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,44
+1584,1001,2023-01-19,Aarav Sharma,AC First Class,467,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,22
+1593,1001,2023-01-22,Reyansh Patel,AC 3 Tier,263,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,9
+1598,1001,2023-01-07,Krishna Sharma,Sleeper,879,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,27
+1599,1001,2023-01-02,Krishna Verma,AC 3 Tier,1375,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,31
+1613,1001,2023-01-23,Reyansh Reddy,AC 3 Tier,1208,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,35
+1615,1001,2023-01-08,Aarav Sharma,Sleeper,1278,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,48
+1628,1001,2023-01-24,Aditya Reddy,AC First Class,1097,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,3
+1632,1001,2023-01-10,Sai Patel,AC 2 Tier,414,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,36
+1633,1001,2023-01-11,Aarav Patel,AC 3 Tier,353,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,48
+1636,1001,2023-01-11,Sai Sharma,AC First Class,1334,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,41
+1639,1001,2023-01-12,Reyansh Kumar,Sleeper,803,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,20
+1641,1001,2023-01-07,Aditya Kumar,Sleeper,1169,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,27
+1642,1001,2023-01-10,Shaurya Das,AC First Class,742,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,40
+1643,1001,2023-01-21,Aditya Mehta,AC 3 Tier,959,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,2
+1646,1001,2023-01-05,Vivaan Verma,AC 2 Tier,1308,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,37
+1651,1001,2023-01-14,Aarav Sharma,AC 3 Tier,1484,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,29
+1653,1001,2023-01-13,Krishna Patel,AC 2 Tier,765,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,44
+1656,1001,2023-01-26,Aarav Sharma,AC 2 Tier,1041,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,16
+1668,1001,2023-01-30,Sai Reddy,AC 2 Tier,954,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,36
+1673,1001,2023-01-06,Aarav Gupta,AC 3 Tier,661,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,27
+1687,1001,2023-01-16,Krishna Gupta,AC 3 Tier,887,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,12
+1693,1001,2023-01-28,Aarav Verma,AC 3 Tier,901,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,48
+1695,1001,2023-01-16,Vivaan Reddy,AC 2 Tier,1499,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,21
+1696,1001,2023-01-01,Aditya Sharma,AC 3 Tier,545,Duronto Express,Pune,Chennai,"Sun,Mon,Thu,Wed,Fri",100,42
+1000,1005,2023-01-09,Vihaan Reddy,AC First Class,896,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,25
+1004,1005,2023-01-10,Reyansh Gupta,AC 3 Tier,342,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,26
+1026,1005,2023-01-06,Aarav Sharma,AC First Class,633,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,5
+1027,1005,2023-01-25,Reyansh Kumar,AC First Class,964,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,43
+1033,1005,2023-01-16,Arjun Gupta,AC First Class,589,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,45
+1037,1005,2023-01-15,Krishna Verma,AC 3 Tier,770,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,47
+1045,1005,2023-01-03,Sai Kumar,Sleeper,681,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,39
+1056,1005,2023-01-07,Shaurya Reddy,AC 2 Tier,1235,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,46
+1061,1005,2023-01-18,Vihaan Singh,AC 3 Tier,285,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,25
+1071,1005,2023-01-31,Krishna Kumar,Sleeper,1421,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,42
+1073,1005,2023-01-07,Aditya Mehta,AC First Class,203,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,17
+1074,1005,2023-01-30,Shaurya Patel,AC 2 Tier,1083,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,26
+1076,1005,2023-01-10,Sai Chopra,AC First Class,805,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,5
+1077,1005,2023-01-05,Arjun Singh,AC First Class,556,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,21
+1078,1005,2023-01-19,Aditya Chopra,Sleeper,822,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,5
+1101,1005,2023-01-18,Aarav Verma,Sleeper,371,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,25
+1119,1005,2023-01-22,Reyansh Das,Sleeper,1212,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,13
+1139,1005,2023-01-02,Vihaan Das,AC 3 Tier,1481,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,38
+1141,1005,2023-01-03,Aditya Kumar,AC First Class,1122,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,32
+1145,1005,2023-01-08,Aarav Gupta,AC 3 Tier,346,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,49
+1148,1005,2023-01-16,Reyansh Sharma,Sleeper,1084,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,7
+1159,1005,2023-01-05,Reyansh Sharma,AC First Class,448,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,21
+1161,1005,2023-01-01,Shaurya Singh,Sleeper,660,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,43
+1163,1005,2023-01-23,Aditya Sharma,AC First Class,1167,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,16
+1165,1005,2023-01-17,Sai Singh,AC 2 Tier,1049,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,10
+1168,1005,2023-01-16,Reyansh Verma,AC First Class,1132,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,45
+1172,1005,2023-01-31,Arjun Singh,Sleeper,1101,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,42
+1175,1005,2023-01-23,Arjun Singh,AC 2 Tier,1292,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,7
+1182,1005,2023-01-28,Reyansh Gupta,AC First Class,1394,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,36
+1190,1005,2023-01-26,Sai Patel,AC 3 Tier,1471,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,17
+1194,1005,2023-01-29,Reyansh Reddy,AC 2 Tier,536,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,12
+1197,1005,2023-01-12,Aarav Das,Sleeper,741,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,4
+1198,1005,2023-01-04,Arjun Verma,AC 2 Tier,1397,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,9
+1212,1005,2023-01-01,Aarav Sharma,AC 3 Tier,1306,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,17
+1217,1005,2023-01-08,Vivaan Gupta,AC 2 Tier,1138,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,41
+1222,1005,2023-01-17,Reyansh Reddy,AC First Class,403,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,28
+1228,1005,2023-01-02,Aarav Kumar,AC 2 Tier,450,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,6
+1233,1005,2023-01-20,Aarav Verma,AC 2 Tier,259,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,17
+1250,1005,2023-01-15,Aditya Sharma,AC First Class,416,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,36
+1261,1005,2023-01-17,Arjun Patel,Sleeper,1121,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,16
+1262,1005,2023-01-21,Aarav Singh,AC First Class,1226,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,16
+1271,1005,2023-01-13,Aditya Das,Sleeper,1067,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,13
+1272,1005,2023-01-12,Reyansh Chopra,AC 2 Tier,569,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,18
+1275,1005,2023-01-05,Shaurya Mehta,AC 3 Tier,532,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,48
+1281,1005,2023-01-05,Aditya Kumar,AC First Class,960,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,21
+1282,1005,2023-01-30,Aditya Mehta,Sleeper,783,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,15
+1286,1005,2023-01-12,Reyansh Gupta,Sleeper,967,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,4
+1296,1005,2023-01-18,Arjun Patel,Sleeper,999,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,25
+1313,1005,2023-01-26,Krishna Mehta,AC 3 Tier,1444,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,17
+1329,1005,2023-01-03,Krishna Sharma,Sleeper,1121,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,39
+1335,1005,2023-01-09,Sai Reddy,Sleeper,1229,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,34
+1344,1005,2023-01-18,Vihaan Reddy,AC 3 Tier,1155,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,25
+1354,1005,2023-01-10,Aditya Gupta,AC First Class,1326,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,5
+1359,1005,2023-01-29,Reyansh Sharma,AC 2 Tier,1455,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,12
+1361,1005,2023-01-18,Vihaan Kumar,AC First Class,234,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,10
+1364,1005,2023-01-16,Reyansh Mehta,AC First Class,502,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,45
+1368,1005,2023-01-07,Ishaan Sharma,AC First Class,1276,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,17
+1373,1005,2023-01-30,Sai Kumar,Sleeper,1374,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,15
+1378,1005,2023-01-24,Sai Das,AC 3 Tier,303,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,15
+1386,1005,2023-01-20,Aarav Das,AC 2 Tier,1130,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,17
+1391,1005,2023-01-11,Shaurya Sharma,Sleeper,578,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,16
+1394,1005,2023-01-24,Ishaan Kumar,AC 2 Tier,936,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,43
+1401,1005,2023-01-04,Aditya Kumar,AC 3 Tier,1372,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,17
+1402,1005,2023-01-05,Ishaan Verma,AC First Class,438,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,21
+1407,1005,2023-01-03,Ishaan Sharma,AC 2 Tier,330,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,33
+1408,1005,2023-01-02,Krishna Reddy,Sleeper,787,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,35
+1420,1005,2023-01-25,Krishna Reddy,AC 2 Tier,493,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,16
+1430,1005,2023-01-24,Arjun Kumar,AC First Class,627,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,18
+1434,1005,2023-01-21,Aarav Kumar,AC 2 Tier,936,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,44
+1435,1005,2023-01-29,Reyansh Das,Sleeper,1161,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,21
+1438,1005,2023-01-30,Sai Mehta,AC 2 Tier,512,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,26
+1440,1005,2023-01-21,Vivaan Chopra,AC First Class,1204,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,16
+1447,1005,2023-01-24,Ishaan Mehta,AC 2 Tier,235,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,43
+1448,1005,2023-01-27,Aditya Kumar,Sleeper,397,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,48
+1449,1005,2023-01-05,Vihaan Kumar,AC 2 Tier,925,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,40
+1461,1005,2023-01-31,Aditya Kumar,AC 2 Tier,260,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,42
+1463,1005,2023-01-31,Krishna Reddy,AC 3 Tier,1399,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,42
+1470,1005,2023-01-26,Sai Gupta,Sleeper,797,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,47
+1472,1005,2023-01-06,Aditya Patel,AC 3 Tier,750,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,15
+1477,1005,2023-01-13,Reyansh Verma,AC 2 Tier,1081,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,43
+1486,1005,2023-01-16,Ishaan Kumar,AC First Class,1313,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,45
+1504,1005,2023-01-31,Krishna Mehta,AC First Class,1402,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,17
+1506,1005,2023-01-19,Sai Reddy,AC 2 Tier,441,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,42
+1508,1005,2023-01-13,Vihaan Das,AC First Class,1066,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,19
+1516,1005,2023-01-24,Aarav Reddy,Sleeper,1372,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,25
+1518,1005,2023-01-07,Reyansh Patel,AC 3 Tier,809,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,19
+1523,1005,2023-01-06,Sai Singh,AC 2 Tier,1372,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,27
+1527,1005,2023-01-21,Sai Das,AC First Class,1125,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,16
+1559,1005,2023-01-11,Vivaan Chopra,AC 2 Tier,1095,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,43
+1574,1005,2023-01-02,Arjun Chopra,AC First Class,778,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,8
+1589,1005,2023-01-12,Vivaan Reddy,AC 2 Tier,1148,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,18
+1603,1005,2023-01-20,Ishaan Singh,AC First Class,1043,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,9
+1604,1005,2023-01-16,Ishaan Kumar,AC 2 Tier,984,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,12
+1606,1005,2023-01-26,Arjun Reddy,AC 2 Tier,1182,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,10
+1607,1005,2023-01-26,Aarav Reddy,AC 2 Tier,995,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,10
+1611,1005,2023-01-27,Arjun Gupta,AC First Class,926,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,36
+1614,1005,2023-01-10,Shaurya Patel,Sleeper,384,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,22
+1618,1005,2023-01-23,Shaurya Reddy,AC 2 Tier,348,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,7
+1624,1005,2023-01-11,Arjun Kumar,Sleeper,1216,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,16
+1634,1005,2023-01-31,Shaurya Sharma,AC First Class,263,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,17
+1648,1005,2023-01-14,Vihaan Patel,AC 3 Tier,1175,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,15
+1654,1005,2023-01-15,Ishaan Verma,AC First Class,430,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,36
+1666,1005,2023-01-29,Shaurya Reddy,AC 3 Tier,594,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,7
+1671,1005,2023-01-18,Shaurya Singh,AC 3 Tier,729,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,25
+1679,1005,2023-01-22,Shaurya Chopra,AC 2 Tier,811,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,49
+1686,1005,2023-01-10,Shaurya Das,AC 3 Tier,801,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,26
+1691,1005,2023-01-19,Aarav Singh,AC First Class,598,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,10
+1692,1005,2023-01-04,Reyansh Sharma,AC 2 Tier,1046,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,9
+1697,1005,2023-01-25,Shaurya Sharma,Sleeper,465,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,20
+1698,1005,2023-01-14,Vihaan Singh,AC First Class,1177,Jan Shatabdi,Pune,Delhi,"Sun,Mon,Tue,Thu,Wed",100,25
+4,1006,2023-01-15,Reyansh Kumar,AC First Class,361,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,75
+9,1006,2023-01-06,Vivaan Sharma,AC 3 Tier,1146,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,51
+21,1006,2023-01-29,Arjun Sharma,AC 3 Tier,1239,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,99
+33,1006,2023-01-16,Reyansh Mehta,AC 3 Tier,1369,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,48
+37,1006,2023-01-11,Vivaan Reddy,AC 3 Tier,589,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,42
+40,1006,2023-01-18,Aditya Verma,AC 3 Tier,540,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,77
+54,1006,2023-01-10,Ishaan Das,Sleeper,1335,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,89
+60,1006,2023-01-15,Reyansh Singh,Sleeper,429,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,54
+64,1006,2023-01-04,Shaurya Verma,AC First Class,1471,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,82
+65,1006,2023-01-05,Sai Sharma,AC 3 Tier,1044,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,51
+82,1006,2023-01-03,Reyansh Reddy,AC 2 Tier,391,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,99
+89,1006,2023-01-17,Aarav Chopra,AC First Class,1454,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,88
+90,1006,2023-01-29,Ishaan Patel,AC First Class,525,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,79
+91,1006,2023-01-28,Krishna Singh,AC 2 Tier,706,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,74
+92,1006,2023-01-09,Vivaan Sharma,AC 3 Tier,762,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,47
+101,1006,2023-01-22,Krishna Patel,AC First Class,461,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,62
+103,1006,2023-01-14,Aditya Sharma,AC 3 Tier,302,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,75
+112,1006,2023-01-07,Arjun Sharma,Sleeper,817,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,52
+113,1006,2023-01-20,Krishna Patel,AC 2 Tier,1291,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,51
+116,1006,2023-01-29,Arjun Gupta,AC First Class,560,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,79
+117,1006,2023-01-17,Shaurya Chopra,AC First Class,1152,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,88
+126,1006,2023-01-19,Ishaan Mehta,AC 2 Tier,1071,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,54
+127,1006,2023-01-18,Krishna Verma,AC First Class,754,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,81
+130,1006,2023-01-16,Shaurya Mehta,AC 2 Tier,405,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,85
+143,1006,2023-01-20,Vihaan Patel,Sleeper,674,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,81
+150,1006,2023-01-11,Shaurya Gupta,Sleeper,387,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,95
+168,1006,2023-01-10,Aditya Das,AC 3 Tier,1114,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,64
+172,1006,2023-01-26,Aarav Patel,Sleeper,458,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,78
+175,1006,2023-01-05,Reyansh Sharma,AC 2 Tier,893,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,79
+182,1006,2023-01-26,Ishaan Reddy,AC 3 Tier,361,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,49
+185,1006,2023-01-01,Reyansh Chopra,AC 3 Tier,351,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,68
+190,1006,2023-01-25,Krishna Gupta,AC 2 Tier,671,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,50
+202,1006,2023-01-27,Vivaan Chopra,AC First Class,438,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,79
+206,1006,2023-01-04,Vivaan Mehta,AC 2 Tier,267,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,80
+207,1006,2023-01-12,Sai Das,AC First Class,683,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,79
+210,1006,2023-01-07,Vivaan Singh,Sleeper,883,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,52
+219,1006,2023-01-31,Aditya Chopra,AC First Class,1022,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,42
+224,1006,2023-01-04,Aditya Patel,AC First Class,1124,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,82
+226,1006,2023-01-04,Aarav Singh,AC 2 Tier,722,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,80
+232,1006,2023-01-16,Krishna Gupta,AC 2 Tier,1339,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,85
+237,1006,2023-01-21,Reyansh Sharma,AC 3 Tier,970,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,40
+239,1006,2023-01-11,Vihaan Mehta,Sleeper,518,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,95
+257,1006,2023-01-16,Vivaan Mehta,AC 2 Tier,1484,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,85
+259,1006,2023-01-10,Sai Chopra,AC 2 Tier,1239,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,90
+265,1006,2023-01-03,Vihaan Mehta,Sleeper,707,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,43
+266,1006,2023-01-15,Vivaan Chopra,AC 3 Tier,945,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,56
+268,1006,2023-01-20,Krishna Das,Sleeper,875,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,81
+271,1006,2023-01-23,Shaurya Gupta,Sleeper,834,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,77
+302,1006,2023-01-06,Sai Reddy,AC First Class,275,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,61
+306,1006,2023-01-11,Ishaan Gupta,AC 2 Tier,1094,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,76
+309,1006,2023-01-14,Vihaan Das,AC 3 Tier,1317,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,75
+313,1006,2023-01-26,Aarav Das,AC First Class,944,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,81
+315,1006,2023-01-26,Aarav Sharma,AC 3 Tier,337,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,49
+320,1006,2023-01-06,Vivaan Reddy,AC First Class,1350,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,61
+324,1006,2023-01-12,Vivaan Verma,AC 2 Tier,814,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,75
+329,1006,2023-01-24,Arjun Gupta,AC First Class,1038,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,55
+332,1006,2023-01-19,Reyansh Das,AC First Class,1229,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,40
+337,1006,2023-01-06,Arjun Gupta,AC 3 Tier,1478,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,51
+338,1006,2023-01-29,Aarav Singh,Sleeper,258,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,86
+342,1006,2023-01-02,Aarav Singh,AC First Class,1191,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,96
+344,1006,2023-01-28,Sai Sharma,AC 3 Tier,958,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,49
+366,1006,2023-01-08,Aarav Reddy,AC 3 Tier,238,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,72
+373,1006,2023-01-07,Sai Verma,AC First Class,914,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,63
+375,1006,2023-01-18,Reyansh Verma,AC 2 Tier,499,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,73
+377,1006,2023-01-09,Aditya Das,AC 3 Tier,1303,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,47
+380,1006,2023-01-29,Ishaan Gupta,AC 3 Tier,307,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,99
+384,1006,2023-01-02,Aarav Mehta,Sleeper,558,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,75
+388,1006,2023-01-18,Krishna Gupta,AC 3 Tier,1232,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,77
+390,1006,2023-01-15,Aarav Chopra,Sleeper,890,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,54
+396,1006,2023-01-08,Vihaan Verma,AC First Class,828,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,58
+404,1006,2023-01-07,Sai Mehta,Sleeper,1245,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,52
+407,1006,2023-01-01,Vivaan Mehta,Sleeper,646,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,60
+416,1006,2023-01-25,Ishaan Chopra,AC First Class,1459,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,97
+422,1006,2023-01-17,Ishaan Sharma,AC 2 Tier,763,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,60
+433,1006,2023-01-25,Shaurya Sharma,AC 3 Tier,1012,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,99
+444,1006,2023-01-02,Shaurya Sharma,AC 3 Tier,1491,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,51
+453,1006,2023-01-28,Reyansh Das,AC First Class,976,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,98
+463,1006,2023-01-09,Arjun Chopra,AC 3 Tier,928,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,47
+465,1006,2023-01-13,Vivaan Singh,AC 3 Tier,350,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,57
+479,1006,2023-01-20,Ishaan Singh,AC 2 Tier,1435,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,51
+480,1006,2023-01-07,Reyansh Verma,AC 3 Tier,1015,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,87
+484,1006,2023-01-07,Ishaan Das,Sleeper,1037,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,52
+485,1006,2023-01-16,Sai Das,AC 3 Tier,717,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,48
+486,1006,2023-01-05,Shaurya Verma,Sleeper,1119,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,87
+490,1006,2023-01-22,Krishna Mehta,AC First Class,416,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,62
+498,1006,2023-01-26,Shaurya Verma,AC 3 Tier,1330,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,49
+503,1006,2023-01-26,Reyansh Chopra,AC 3 Tier,949,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,49
+514,1006,2023-01-16,Vivaan Singh,AC First Class,542,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,92
+522,1006,2023-01-14,Sai Chopra,AC 3 Tier,623,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,75
+527,1006,2023-01-11,Krishna Gupta,AC First Class,491,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,88
+531,1006,2023-01-15,Ishaan Kumar,AC First Class,646,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,75
+534,1006,2023-01-25,Ishaan Mehta,Sleeper,1482,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,87
+545,1006,2023-01-22,Shaurya Singh,Sleeper,1449,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,88
+546,1006,2023-01-06,Aarav Gupta,AC 3 Tier,1486,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,51
+547,1006,2023-01-05,Aditya Patel,AC 3 Tier,377,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,51
+555,1006,2023-01-06,Reyansh Das,Sleeper,1402,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,56
+558,1006,2023-01-13,Aditya Chopra,AC 3 Tier,768,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,57
+561,1006,2023-01-31,Ishaan Patel,AC 3 Tier,376,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,78
+567,1006,2023-01-03,Aarav Das,AC 2 Tier,313,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,99
+572,1006,2023-01-24,Vihaan Das,AC 2 Tier,708,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,72
+581,1006,2023-01-24,Aditya Chopra,AC 3 Tier,1285,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,85
+592,1006,2023-01-23,Shaurya Kumar,AC 3 Tier,871,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,69
+598,1006,2023-01-03,Ishaan Reddy,Sleeper,244,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,43
+602,1006,2023-01-14,Reyansh Chopra,AC 3 Tier,583,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,75
+618,1006,2023-01-06,Ishaan Das,Sleeper,502,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,56
+624,1006,2023-01-01,Ishaan Verma,Sleeper,572,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,60
+630,1006,2023-01-14,Krishna Patel,AC First Class,975,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,70
+632,1006,2023-01-25,Sai Das,AC First Class,350,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,97
+638,1006,2023-01-30,Aditya Chopra,AC 2 Tier,809,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,45
+641,1006,2023-01-21,Sai Mehta,AC 3 Tier,398,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,40
+663,1006,2023-01-15,Vihaan Kumar,AC First Class,1438,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,75
+664,1006,2023-01-03,Aarav Kumar,AC 3 Tier,1033,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,83
+665,1006,2023-01-16,Vihaan Sharma,Sleeper,1255,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,98
+673,1006,2023-01-27,Arjun Mehta,Sleeper,991,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,52
+675,1006,2023-01-07,Sai Reddy,Sleeper,218,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,52
+679,1006,2023-01-17,Reyansh Gupta,Sleeper,215,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,80
+681,1006,2023-01-04,Ishaan Reddy,AC 2 Tier,766,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,80
+682,1006,2023-01-11,Shaurya Patel,AC 2 Tier,585,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,76
+684,1006,2023-01-05,Aarav Gupta,AC 2 Tier,731,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,79
+686,1006,2023-01-23,Arjun Kumar,AC First Class,934,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,68
+689,1006,2023-01-03,Shaurya Das,AC 3 Tier,828,Intercity Express,Sealdah,Delhi,"Mon,Thu,Wed,Sun,Sat",100,83

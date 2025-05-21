@@ -1,0 +1,6 @@
+streamlit
+psycopg2-binary
+seaborn
+matplotlib
+pandas
+mysql-connector-python
