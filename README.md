@@ -51,9 +51,9 @@ C --> D[Descriptive Analysis]
 D --> E[Business Insights]
 E --> F[Recommendations]
 
+---
 
-
-## 🧠 Summary Insights (from Notebook)
+# 🧠 Summary Insights (from Notebook)
 - 🔟 Top 10 vendors contribute more than 60% of overall revenue.
 
 - 🌍 East and South regions outperform others in Average Order Value.
@@ -62,7 +62,7 @@ E --> F[Recommendations]
 
 - 🚨 Underperforming vendors may benefit from focused promotions.
 
-## 📌 Business Recommendations
+# 📌 Business Recommendations
 - 🎯 Focus marketing campaigns on high-performing regions and vendors.
 
 - 💡 Upsell/Cross-sell within top-performing categories like Electronics or Furniture.
@@ -71,14 +71,14 @@ E --> F[Recommendations]
 
 - 📊 Build performance dashboards to track and monitor vendor KPIs monthly.
 
-## 📂 Project Structure
+# 📂 Project Structure
 
 vendors-sales-analysis/
 ├── vendors_sales_summary.csv     # Raw data
 ├── analysis.ipynb                # Jupyter notebook with full analysis
 ├── README.md                     # Project documentation
 
-##👨‍💻 Author
+#👨‍💻 Author
 - Kaustav Roy Chowdhury
 - 💼 Data Analyst | SQL | Python | BI Dashboards
 - 🔗 LinkedIn | GitHub
