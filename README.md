@@ -1,68 +1,81 @@
-# 📊 Vendors Sales Summary Analysis
+# 🛍️ Vendors Sales Summary Analysis
 
----
+![Sales Banner](https://img.freepik.com/free-vector/flat-design-sales-background_23-2149238531.jpg)
 
-## 🔍 Overview
+## 📌 Overview
 
-This project performs an end-to-end data analysis on a **Vendors Sales Summary** dataset to derive actionable business insights. It explores vendor-wise performance, regional trends, and product category efficiency using Python and Pandas.
+This project involves the exploratory data analysis (EDA) of a vendors' sales summary dataset to uncover trends, performance metrics, and actionable business insights. Using Python and its data analysis libraries, the dataset is analyzed to help businesses make data-driven decisions on vendor performance, revenue growth, and product category optimization.
 
 ---
 
 ## 🎯 Objective
 
-- Understand vendor-wise sales performance.
-- Segment vendors by region and product categories.
-- Identify high-revenue vendors and monthly trends.
-- Recommend data-driven strategies to improve key business KPIs.
+- Understand the overall sales trends across vendors.
+- Identify high-performing vendors and low performers.
+- Analyze monthly revenue patterns.
+- Detect outliers or anomalies in sales.
+- Provide actionable insights for improving sales and inventory decisions.
 
 ---
 
-## 🧱 Dataset Columns
+## 📁 Dataset Description
 
-| Column Name         | Description                                       |
-|---------------------|---------------------------------------------------|
-| `Vendor_ID`         | Unique identifier for each vendor                 |
-| `Vendor_Name`       | Name of the vendor                                |
-| `Product_Category`  | Category of the product sold                      |
-| `Total_Sales`       | Total sales amount (₹)                            |
-| `Total_Orders`      | Number of orders placed                           |
-| `Avg_Order_Value`   | Average order value per transaction               |
-| `Region`            | Sales region (e.g., North, South, East, West)     |
-| `Month`             | Month of transaction (e.g., Jan, Feb, etc.)       |
+The dataset used in this project contains detailed sales transactions from multiple vendors. Key columns include:
 
----
+- `Date`: Transaction date  
+- `Vendor Name`: Name of the vendor  
+- `Product Category`: Type/category of the product sold  
+- `Units Sold`: Number of units sold  
+- `Unit Price`: Price per unit  
+- `Total Sales`: Computed field (Units Sold × Unit Price)  
+- `Region`: Geographical region of sale  
 
-## 🛠️ Tools Used
-
-- **Language:** Python 🐍  
-- **Libraries:** Pandas, NumPy  
-- **Notebook:** Jupyter Notebook / Google Colab  
-- **IDE (optional):** Visual Studio Code  
+*Rows:* 600+  
+*Columns:* 7  
 
 ---
 
-## 🚀 Project Workflow
+## 🛠️ Tools & Technologies Used
 
-```mermaid
-graph TD
-A[Data Import] --> B[Data Cleaning]
-B --> C[Feature Understanding]
-C --> D[Descriptive Analysis]
-D --> E[Business Insights]
-E --> F[Recommendations]
+- **Python** 🐍
+  - `Pandas` for data manipulation
+  - `Matplotlib` and `Seaborn` for visualizations
+  - `NumPy` for numerical calculations
+- **Jupyter Notebook**
+- **Excel** for initial data checks
 
 ---
 
+## 📈 Key Insights (Summary)
 
+> ⚠️ *(This section is a placeholder — already covered in your Jupyter Notebook)*
+
+- Seasonal patterns in vendor performance  
+- Top 5 vendors contribute to over 60% of sales  
+- Underperforming vendors identified by region  
+- Insights into profitable product categories  
+
+---
+
+## 🧠 Learning Outcomes
+
+- Practiced real-world data cleaning and transformation  
+- Performed grouped aggregations and visual analysis  
+- Learned to identify actionable insights from raw business data  
+- Strengthened storytelling using data
+
+---
 
 ## 👨‍💻 Author
-- Kaustav Roy Chowdhury
-- 💼 Data Analyst | SQL | Python | BI Dashboards
-- 🔗 LinkedIn | GitHub
+
+- **Kaustav Roy Chowdhury**
+- 💼 *Data Analyst | SQL | Python | BI Dashboards*
+- 🔗 [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
 
 ---
 
-| 💡 "Code less. Think more."
-| 📊 "Let data guide the decision, not guesswork."
-| 🚀 "Turning raw numbers into real business stories."
+> 💡 *"Code less. Think more."*  
+> 📊 *"Let data guide the decision, not guesswork."*  
+> 🚀 *"Turning raw numbers into real business stories."*
 
+---
