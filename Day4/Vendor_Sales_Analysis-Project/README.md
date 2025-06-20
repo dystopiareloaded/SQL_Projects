@@ -1,6 +1,6 @@
 # 🛍️ Vendors Sales Summary Analysis
 
-![](logo.png)
+![](logo.jpg)
 
 ## 📌 Overview
 
