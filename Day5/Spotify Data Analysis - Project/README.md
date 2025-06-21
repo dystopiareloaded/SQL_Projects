@@ -1,6 +1,6 @@
 # 🎧 Spotify Data Analysis SQL Project
 
-![spotify-banner](https://img.icons8.com/fluency/512/spotify.png)
+![spotify-banner](logo.jpg)
 
 ---
 
